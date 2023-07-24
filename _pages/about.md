@@ -18,4 +18,4 @@ As an aspiring entrepreneur, Wilson is determined to make a positive impact and 
 
 With a strong drive for success and an eagerness to connect with like-minded individuals, Wilson is open to exploring entrepreneurial opportunities and welcomes any inquiries or collaborations. In his free time, he enjoys going to the gym, hanging out with friends, and staying updated with the latest news.
 
-Feel free to reach out to him at wilsonleejunwei@u.nus.edu to connect!
+Feel free to reach out to him at "wilsonleejunwei@u.nus.edu" to connect!
