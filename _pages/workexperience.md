@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Work Experience"
 permalink: /workexperience/
 author_profile: true
