@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**About Me**
-
 Wilson Lee is a highly motivated and ambitious 3rd-year university student, majoring in Computer Engineering at the prestigious National University of Singapore (NUS). During his first and second years at NUS, Wilson was an active and engaged member of Tembusu College, where he actively participated in various college activities and events.
 
 Throughout his academic journey at NUS, Wilson has demonstrated a keen interest in Computer Engineering and has actively participated in extracurricular activities. He has been an enthusiastic member of CCAs (Co-Curricular Activities) such as the NUS Muay Thai Club and the NUS Comedy Club, where he enjoys exploring his interests beyond academics and cultivating a well-rounded university experience.
