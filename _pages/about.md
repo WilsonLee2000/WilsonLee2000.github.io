@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wilson Lee is a highly motivated and ambitious 3rd-year university student, majoring in Computer Engineering at the National University of Singapore (NUS). During his first and second years at NUS, Wilson was a student at Tembusu College.
+Wilson Lee is a highly motivated and ambitious 3rd-year university student, majoring in Computer Engineering at the National University of Singapore (NUS). During his first and second years at NUS, as part of the University Town College Programme, Wilson was a student at Tembusu College.
 
 Throughout his academic journey at the National University of Singapore, Wilson has demonstrated a keen interest in Computer Engineering and has actively participated in extracurricular activities. He has been an enthusiastic member of Co-Curricular Activities such as the NUS Muay Thai Club and the NUS Comedy Club, where he enjoys exploring his interests beyond academics and cultivating a well-rounded university experience.
 
