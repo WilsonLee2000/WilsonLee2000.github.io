@@ -13,6 +13,10 @@ View my full Resume [here](https://drive.google.com/file/d/1JJYvnP42z3WGx79Ih2ik
 
 Education
 ======
+**National University of Singapore | August 2021 to Present**
+Bachelor of Engineering (Honours) in Computer Engineering  
+Tembusu College - University Town College Programme  
+
 **Anderson Junior College | February 2017 to December 2018**  
 Co-Curricular Activity: Interact Club  
 AJC Alpha Scholars Programme  
