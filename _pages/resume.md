@@ -44,6 +44,6 @@ Education
 Skills
 ======
 **Programming Languages:** C, C++, Angular, Java, JavaScript, Python  
-**Software:** RStudio, MATLAB, Stella Architect, Microsoft Office
-**Soft Skills:** Entrepreneurship, Communication, Teamwork, Creativity and Innovation
+**Software:** RStudio, MATLAB, Stella Architect, Microsoft Office  
+**Soft Skills:** Entrepreneurship, Communication, Teamwork, Creativity and Innovation  
 **Hard Skills:** Event Management, Operations Management
