@@ -41,6 +41,7 @@ Education
 - College Ambassador for Anderson Junior College Open House 2018  
 - Orientation Group Leader for Anderson Junior College Orientation 2018  
 
+
 Work experience
 ======
 * RescaleLab | Software Engineering Intern | May 2023 to Present
