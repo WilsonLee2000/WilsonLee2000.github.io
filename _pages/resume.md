@@ -40,6 +40,8 @@ Education
 - Class Subject Representative
 - College Ambassador for Anderson Junior College Open House 2018  
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
+
+
   
 Work experience
 ======
@@ -48,10 +50,7 @@ Work experience
   * Skills: Entrepreneurship, Angular, Operations Management, Teamwork, Communication
   * Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
