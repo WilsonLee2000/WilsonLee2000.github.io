@@ -13,8 +13,6 @@ View my full Resume [here](https://drive.google.com/file/d/1JJYvnP42z3WGx79Ih2ik
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
 **Anderson Junior College | February 2017 to December 2018**
 * Co-Curricular Activity: Interact Club
 * AJC Alpha Scholars Programme 
