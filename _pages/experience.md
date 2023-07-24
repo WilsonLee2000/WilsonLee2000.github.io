@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##[Work Experience](https://wilsonlee2000.github.io/workexperience/)##
+## [Work Experience](https://wilsonlee2000.github.io/workexperience/)
 ======
 **RescaleLab**  
 * Software Engineering Intern  
