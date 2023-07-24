@@ -16,7 +16,8 @@ Education
 **National University of Singapore | August 2021 to Present**  
 - Bachelor of Engineering (Honours) in Computer Engineering   
 - Tembusu College - University Town College Programme  
-- Projects: NUS School of Computing Orbital (CP2106: Independent Software Development Project), Level of Achievement: Apollo 11
+- Projects: NUS School of Computing Orbital (CP2106: Independent Software Development Project)  
+  Level of Achievement: Apollo 11
 - Hackathons and Competitions:
   * Hack & Roll 2023
   * IDEATE Ideathon 2022
