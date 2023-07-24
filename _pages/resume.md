@@ -14,11 +14,11 @@ View my full Resume [here](https://drive.google.com/file/d/1JJYvnP42z3WGx79Ih2ik
 Education
 ======
 **Anderson Junior College | February 2017 to December 2018**
-* Co-Curricular Activity: Interact Club
-* AJC Alpha Scholars Programme 
-* College Ambassador for Anderson Junior College Open House 2018
-* Orientation Group Leader for Anderson Junior College Orientation 2018
-* Class Subject Representative 2017 - 2018
+Co-Curricular Activity: Interact Club
+AJC Alpha Scholars Programme 
+College Ambassador for Anderson Junior College Open House 2018
+Orientation Group Leader for Anderson Junior College Orientation 2018
+Class Subject Representative 2017 - 2018
 
 Work experience
 ======
