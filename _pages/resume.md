@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+View my full Resume [here](https://drive.google.com/file/d/1JJYvnP42z3WGx79Ih2ikQAWZHZVB6n1y/view?usp=sharing) (as of December 2022).
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
