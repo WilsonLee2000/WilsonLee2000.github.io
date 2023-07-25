@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "Work Experience"
 permalink: /workexperience/
 author_profile: true
 ---
