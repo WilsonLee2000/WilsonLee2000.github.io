@@ -25,9 +25,9 @@ Education
   * Shopee Code League 2022 ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile))
   * HUAWEI CLOUD SPARK Hackathon Singapore 2022
 - Courses and Certifications:
-  * AI Singapore Literacy in Artificial Intelligence ([Certification](https://drive.google.com/file/d/1wFwEk5kNUCw7-WJP98v1oF-zjqF4apDk/view?usp=sharing))
-  * Red Hat System Administration II (RH134)
-  * Red Hat System Administration I (RH124)
+  * AI Singapore Literacy in Artificial Intelligence ([Certification](https://drive.google.com/file/d/1wFwEk5kNUCw7-WJP98v1oF-zjqF4apDk/view?usp=sharing))  
+  * Red Hat System Administration II (RH134) ([Certification](https://drive.google.com/file/d/1ORxKO8mD_hAaHHJWw6i1VxsEmkxtTiOP/view?usp=drive_link))  
+  * Red Hat System Administration I (RH124) ([Certification](https://drive.google.com/file/d/1fVWQRHqqE6lEQxZXBNtQ5AhxbP1HGxPo/view?usp=drive_link))  
   * Responsive Web Design (HTML for content, and CSS for design) ([Credential](https://www.freecodecamp.org/certification/fccab1f5df0-9b29-4651-b33a-6945cddfbb96/responsive-web-design))
 - Activities and Societies:
   * NUS Korean Cultural Interest Group (KCIG Dance Team & Korean Cultural Society)
