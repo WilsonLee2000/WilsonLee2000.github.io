@@ -1,6 +1,6 @@
 ---
 title: "Personal Achievements"
-permalink: /personal achievements/
+permalink: /personalachievements/
 author_profile: true
 ---
 
