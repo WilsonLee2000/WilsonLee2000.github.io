@@ -21,7 +21,7 @@ Education
 - Hackathons and Competitions:
   * Hack & Roll 2023 
   * IDEATE Ideathon 2022 
-  * LifeHack 2022 ([Certification](https://drive.google.com/file/d/13XsUhydXEd4Jt3K9OeSVFUB7DIfIH85v/view?usp=drive_link))
+  * LifeHack 2022 ([Certification](https://drive.google.com/file/d/14Hj1edP0CfCnwiaWyKoISDlMtLn6SIyX/view?usp=drive_link))
   * Shopee Code League 2022 ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile))
   * HUAWEI CLOUD SPARK Hackathon Singapore 2022
 - Courses and Certifications:
