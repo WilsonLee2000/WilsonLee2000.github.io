@@ -14,8 +14,8 @@ author_profile: true
 * Edusave Certificate of Academic Achievement 2017
 * Edusave Award For Achievement, Good Leadership And Service (EAGLES) 2016
 * Edusave Scholarship 2016
-* Edusave Scholarship 2015
 * Champions of NPCC Challenge Shield 2016
 * Colours Award (Gold Award) 2016
+* Edusave Scholarship 2015
 
 ### Events and Posts
