@@ -18,4 +18,7 @@ author_profile: true
 * Colours Award (Gold Award) 2016
 * Edusave Scholarship 2015
 
-### Events and Posts
+### Events and Posts  
+* [Empowering Entrepreneurship: A Journey with RescaleLab's A*StartCentral's Essentials for Entrepreneurship Program](https://www.linkedin.com/posts/wilsonleejunwei_rescalelab-astartcentral-startupjourney-activity-7084764259322134528-Jo5z?utm_source=share&utm_medium=member_desktop)  
+* [Attending APAC Summit 2023 as a Student Intern with RescaleLab](https://www.linkedin.com/posts/wilsonleejunwei_apacsummit2023-activity-7077508189692301313--LgT?utm_source=share&utm_medium=member_desktop)  
+* [Experience the Future of Innovation with RescaleLab: Innovfest 2023, Asia's Premier Tech Startup Conference!](https://www.linkedin.com/posts/rescalelab_innovfest-edtech-startups-activity-7072176361263546368-96X5?utm_source=share&utm_medium=member_desktop)
