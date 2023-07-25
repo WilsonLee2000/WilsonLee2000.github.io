@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+Want to know more about my undergraduate life at NUS? <br/>
 Have a question about my role or projects at RescaleLab? <br/>
 Curious about my entrepreneurship activities? <br/>
 Want to connect and expand your network? <br/>
