@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Features and Posts"
-permalink: /features/
+title: "Features"
+permalink: /featuresposts/
 author_profile: true
 ---
 
