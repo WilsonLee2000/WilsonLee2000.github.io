@@ -21,6 +21,6 @@ author_profile: true
 * November 2016 to January 2017  
 
 ## [Project Experience](https://wilsonlee2000.github.io/projectexperience/)
-**NUS Computing CP2106 Orbital**
+**NUS School of Computing Project Orbital**
 * Independent Software Development Project
 * May 2022 to August 2022
