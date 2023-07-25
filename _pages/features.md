@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Features and Posts"
+title: "Features"
 permalink: /features/
 author_profile: true
 ---
