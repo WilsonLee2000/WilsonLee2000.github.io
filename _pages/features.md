@@ -10,7 +10,7 @@ author_profile: true
 ### Awards and Features
 * National Youth Achievement Award Gold [Award](https://drive.google.com/file/d/1gic7C0kG9vcYHMRX4QBaAjrz1dhHwwRz/view?usp=sharing) 2018 ([Junior College Announcement](https://www.facebook.com/andersonjuniorcollege/posts/our-heartiest-congratulations-to-the-national-youth-achievement-award-nyaa-gold-/2226852197366994/))  
 * Edusave Certificate of Academic Achievement 2018
-* Contribution Award 2018
+* Anderson Junior College Contribution Award 2018
 * Edusave Certificate of Academic Achievement 2017
 * Edusave Award For Achievement, Good Leadership And Service (EAGLES) 2016
 * Edusave Scholarship 2016
