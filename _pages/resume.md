@@ -22,10 +22,10 @@ Education
   * Hack & Roll 2023 
   * IDEATE Ideathon 2022 
   * LifeHack 2022 ([Certification](https://drive.google.com/file/d/13XsUhydXEd4Jt3K9OeSVFUB7DIfIH85v/view?usp=drive_link))
-  * Shopee Code League 2022
+  * Shopee Code League 2022 ([Credentials](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile))
   * HUAWEI CLOUD SPARK Hackathon Singapore 2022
 - Courses and Certifications:
-  * AI Singapore Literacy in Artificial Intelligence
+  * AI Singapore Literacy in Artificial Intelligence ([Certification](https://drive.google.com/file/d/1wFwEk5kNUCw7-WJP98v1oF-zjqF4apDk/view?usp=sharing))
   * Red Hat System Administration II (RH134)
   * Red Hat System Administration I (RH124)
 - Activities and Societies:
