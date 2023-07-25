@@ -6,11 +6,8 @@ main:
   - title: "Experience"
     url: /experience/    
 
-  - title: "Posts"
-    url: /posts/    
-        
-  - title: "Resources"
-    url: /resources/
-    
+  - title: "Features and Posts"
+    url: /features/    
+   
   - title: "Contact"
     url: /contact/
