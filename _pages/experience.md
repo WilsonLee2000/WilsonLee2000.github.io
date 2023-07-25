@@ -19,3 +19,8 @@ author_profile: true
 **People's Association**  
 * Constituency Support Officer  
 * November 2016 to January 2017  
+
+## [Project Experience]
+**NUS Computing CP2106 Orbital**
+* Independent Software Development Project
+* May 2022 to August 2022
