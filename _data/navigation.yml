@@ -7,7 +7,7 @@ main:
     url: /experience/    
 
   - title: "Features"
-    url: /featuresposts/    
+    url: /features/    
    
   - title: "Contact"
     url: /contact/
