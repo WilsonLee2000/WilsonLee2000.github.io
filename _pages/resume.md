@@ -45,7 +45,9 @@ Education
   
 Skills
 ======
-**Programming Languages:** C, C++, Angular, Java, JavaScript, Python  
+**Programming Languages:** C, C++, Java, JavaScript, Python  
+**Front-End Framework:** Angular 11
+**Back-End:** Node.js
 **Software:** RStudio, MATLAB, Stella Architect, Microsoft Office  
 **Soft Skills:** Entrepreneurship, Communication, Teamwork, Creativity and Innovation  
 **Hard Skills:** Event Management, Operations Management
