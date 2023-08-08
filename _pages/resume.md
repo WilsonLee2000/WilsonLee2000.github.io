@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View my full Resume [here](https://drive.google.com/file/d/12eJh8jA35duk5JJX2BEx7Zl6wXOH08zJ/view?usp=sharing) (as of December 2022).
+View my full Resume [here](https://drive.google.com/file/d/12eJh8jA35duk5JJX2BEx7Zl6wXOH08zJ/view?usp=sharing) (as of July 2023).
 
 Education
 ======
