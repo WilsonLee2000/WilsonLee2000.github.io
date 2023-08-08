@@ -19,7 +19,7 @@ Education
 - Projects: NUS School of Computing Orbital (CP2106: Independent Software Development Project)  
   Level of Achievement: Apollo 11
 - Hackathons and Competitions:
-  * Hack & Roll 2023 
+  * Hack & Roll 2023 [Organised by NUS Hackers]  
   * IDEATE Ideathon 2022 
   * LifeHack 2022 ([Certification](https://drive.google.com/file/d/14Hj1edP0CfCnwiaWyKoISDlMtLn6SIyX/view?usp=drive_link))
   * Shopee Code League 2022 ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile))
