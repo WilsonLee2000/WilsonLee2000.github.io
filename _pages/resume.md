@@ -14,7 +14,7 @@ View my full Resume [here](https://drive.google.com/file/d/12eJh8jA35duk5JJX2BEx
 Education
 ======
 **National University of Singapore | August 2021 to Present**  
-- Bachelor of Engineering (Honours) in Computer Engineering   
+- Bachelor of Engineering (Honours) in Computer Engineering with Minor in Interactive Media Development  
 - Tembusu College - University Town College Programme  
 - Projects: NUS School of Computing Orbital (CP2106: Independent Software Development Project)  
   Level of Achievement: Apollo 11
