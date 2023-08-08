@@ -5,7 +5,13 @@ main:
 
   - title: "Experience"
     url: /experience/    
-
+    
+  - title: "Entrepreneurship"
+    url: /entrepreneurship/ 
+  
+  - title: "Leadership"
+    url: /leadership/ 
+    
   - title: "Features and Posts"
     url: /features/    
    
