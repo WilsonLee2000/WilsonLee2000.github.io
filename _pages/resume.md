@@ -20,10 +20,10 @@ Education
   Level of Achievement: Apollo 11
 - Hackathons and Competitions:
   * Hack & Roll 2023 [Organised by NUS Hackers]  
-  * IDEATE Ideathon 2022 
-  * LifeHack 2022 ([Certification](https://drive.google.com/file/d/14Hj1edP0CfCnwiaWyKoISDlMtLn6SIyX/view?usp=drive_link))
-  * Shopee Code League 2022 ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile))
-  * HUAWEI CLOUD SPARK Hackathon Singapore 2022
+  * IDEATE Ideathon 2022 [Organised by NUS IDP Students' Club]
+  * LifeHack 2022 ([Certification](https://drive.google.com/file/d/14Hj1edP0CfCnwiaWyKoISDlMtLn6SIyX/view?usp=drive_link)) [Organised by NUS Students' Computing Club]
+  * Shopee Code League 2022 ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile)) [Organised by Shoppee Singapore]
+  * HUAWEI CLOUD SPARK Hackathon Singapore 2022 [Organised by Huawei]
 - Courses and Certifications:
   * AI Singapore Literacy in Artificial Intelligence ([Certification](https://drive.google.com/file/d/1wFwEk5kNUCw7-WJP98v1oF-zjqF4apDk/view?usp=sharing))  
   * Red Hat System Administration II (RH134) ([Certification](https://drive.google.com/file/d/1ORxKO8mD_hAaHHJWw6i1VxsEmkxtTiOP/view?usp=drive_link))  
