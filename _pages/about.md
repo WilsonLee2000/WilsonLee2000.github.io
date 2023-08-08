@@ -16,6 +16,6 @@ Wilson's passion for entrepreneurship and innovation is evident through his acti
 
 As an aspiring entrepreneur, Wilson is determined to make a positive impact and is always on the lookout for new opportunities in the entrepreneurial landscape. In line with his passion for entrepreneurship, Wilson is currently interning at RescaleLab, a dynamic start-up incubated at Block71 Singapore by NUS Enterprise. RescaleLab is renowned for providing experiential entrepreneurship programs in educational institutions and corporate environments.
 
-With a strong drive for success and an eagerness to connect with like-minded individuals, Wilson is open to exploring entrepreneurial opportunities and welcomes any inquiries or collaborations. In his free time, he enjoys going to the gym, hanging out with friends, and staying updated with the latest news.
+With a strong drive for success and an eagerness to connect with like-minded individuals, Wilson is open to exploring entrepreneurial opportunities and welcomes any inquiries or collaborations. In his free time, he enjoys going to the gym and singing.
 
 Feel free to reach out to him at [wilsonleejunwei@u.nus.edu](mailto:wilsonleejunwei@u.nus.edu?subject=Invitation%20to%20Connect&body=Dear%20Wilson%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%20My%20name%20is%20%5BYour%20Name%5D%2C%20and%20I%20am%20reaching%20out%20to%20extend%20an%20invitation%20to%20connect%20with%20you.%0A%0ALooking%20forward%20to%20the%20opportunity%20of%20connecting%20with%20you.%0A%0ABest%20Regards%2C%0A%5BYour%20Name%5D) to connect!
