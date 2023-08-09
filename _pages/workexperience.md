@@ -19,6 +19,8 @@ author_profile: true
 (Facebook, Instagram, LinkedIn, Sendgrid, Telegram and WordPress)  
 * Internship Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)  
 
+<img src="/images/1690726204517.jpeg" width="200">
+
 **Republic Polytechnic | Office of Student Support**  
 *Office of Student Support Admin | Apr 2021 to July 2021*
 * Advised and processed at least 30 cases of bulk financial assistance schemes, bursary application, scholarship forms and supporting documents
