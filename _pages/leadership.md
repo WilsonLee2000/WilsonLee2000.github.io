@@ -28,7 +28,7 @@ From February 2017 to October 2018, I embarked on a transformative journey to fu
 
 Eager to make a difference, I initiated a Residential Project, organizing a heartwarming event that welcomed underprivileged families for a day of joyful family activities hosted at Anderson Junior College. My journey also included a culinary exploration as part of the Skills component and acquiring the fundamentals of basketball as part of the physical activity component. Each of these components, essential for earning the prestigious NYAA Gold Award, contributed not only to my personal growth but also to my development as a responsible and engaged leader of society.
 
-<img src="/images/NYAA1.JPG" height="850px" width="850px">
+<img src="/images/NYAA1.JPG" height="650px" width="850px">
 
 <img src="/images/NYAA2.jpg" height="850px" width="850px">
 
