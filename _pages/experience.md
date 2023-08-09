@@ -11,7 +11,7 @@ author_profile: true
 **RescaleLab** (a subsidiary of E.A.T. Launchpad)  
 * Software Engineering Intern  
 * May 2023 to Present
-<img src="/images/RescaleLab.jpg" height="350px" width="350px">  
+<img src="/images/RescaleLab.JPG" height="350px" width="350px">  
 
 **Republic Polytechnic**  
 * Office of Student Support Admin  
