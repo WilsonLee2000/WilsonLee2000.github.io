@@ -19,7 +19,9 @@ author_profile: true
 (Facebook, Instagram, LinkedIn, Sendgrid, Telegram and WordPress)  
 * Internship Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)  
 
-<img src="/images/1690726204517.jpeg" height="300px" width="300px"> <img src="/images/Rescale.jpg" height="400px" width="400px">
+<img src="/images/1690726204517.jpeg" height="840px" width="840px"> 
+
+<img src="/images/Rescale.jpg" height="840px" width="840px">
 
 **Republic Polytechnic | Office of Student Support**  
 *Office of Student Support Admin | Apr 2021 to July 2021*
