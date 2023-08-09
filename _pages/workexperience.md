@@ -6,9 +6,17 @@ author_profile: true
 
 ## Work Experience
 
-**RescaleLab | Block71 Singapore by NUS Enterprise**  
+**RescaleLab | Start-up incubated at Block71 Singapore by NUS Enterprise**  
 *Software Engineering Intern | May 2023 to Present*
 * RescaleLab (a subsidiary of E.A.T. Launchpad) is a cloud-based B2B software solution that facilitates the seamless capture and analysis of ongoing interactions between trainers and learners. By employing a data-driven approach, RescaleLab effectively maps out the level of commitment from all stakeholders involved, with the ultimate goal of fostering a milestone & high-touch feedback environment for achieving successful learning outcomes in educational institutions and Corporate L&D environments.
+* • Assist RescaleLab's platform users during onboarding and addressed any platform usage difficulties users may encounter  
+* • Attract potential clients, investors, and partners through business networking and engagement  
+* • Conduct RescaleLab's platform demonstrations to potential clients, investors, and partners  
+* • Engage in the recruitment and training of new interns at RescaleLab  
+* • Engage in bug identification, bug fixing, and development of new features for the RescaleLab platform as a part of the tech team  
+* • Represented RescaleLab at business tech conferences, including InnovFest and APAC Summit, as well as events like the A*StartCentral Essentials for Entrepreneurship Programme  
+* • Revitalized RescaleLab's marketing platforms to attract potential clients, investors, and partners   
+(Facebook, Instagram, LinkedIn, Sendgrid, Telegram and WordPress)  
 * Internship Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)  
 
 **Republic Polytechnic | Office of Student Support**  
