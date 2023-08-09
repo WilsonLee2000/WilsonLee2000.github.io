@@ -33,3 +33,12 @@ Eager to make a difference, I initiated a Residential Project, organizing a hear
 <img src="/images/NYAA2.jpg" height="850px" width="850px">
 
 <img src="/images/NYAA3.jpg" height="850px" width="850px">
+
+### Anderson Serangoon Junior College Orientation | February 2018
+In February 2018, alongside five other orientation group leaders, comprising students from both Anderson Junior College and Serangoon Junior College, I was presented with a unique opportunity. This opportunity allowed us to guide a group of over 10 freshmen through a transformative 6-day orientation week for incoming JC1 students. What set this orientation apart was its exceptional nature—marking the first instance where orientation leaders from both Anderson Junior College and Serangoon Junior College collaborated harmoniously to ensure the orientation's success. This experience allowed me to forge new connections and friendships not only with students from my own institution (Anderson Junior College) but also with peers from Serangoon Junior College. Witnessing the seamless integration of JC1 students into the junior college environment, characterized by their bright smiles, brings me immense joy. Within my role, I took charge of the administrative and logistical aspects concerning the JC1 students under my guidance.
+
+<img src="/images/Ori1.jpg" height="650px" width="850px">
+
+<img src="/images/Ori2.jpg" height="850px" width="850px">
+
+<img src="/images/Ori3.jpg" height="850px" width="850px">
