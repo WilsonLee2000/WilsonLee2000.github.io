@@ -15,4 +15,4 @@ author_profile: true
 * Designed, Managed, and Mentored Over 300 Startups over the past 5 years
 * 4 Years in Deep Tech and Research Commercialisation
 
-<a href=”https://www.linkedin.com/in/gustavoliu/“><img src="/images/Gus2.jpg" height="300px" width="250px" class="center"></a>
+<img src="/images/Gus2.jpg" height="300px" width="250px" class="center">
