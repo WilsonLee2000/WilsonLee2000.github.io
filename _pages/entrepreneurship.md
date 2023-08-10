@@ -15,4 +15,4 @@ author_profile: true
 * Designed, Managed, and Mentored Over 300 Startups over the past 5 years
 * 4 Years in Deep Tech and Research Commercialisation
 
-<img src="/images/Gus2.jpg" height="450px" width="450px" class="center">
+<img src="/images/Gus2.jpg" height="250px" width="250px" class="center">
