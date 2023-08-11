@@ -31,7 +31,7 @@ I welcome you to join me on this journey!
 * Designed, Managed, and Mentored Over 300 Startups over the past 5 years
 * 4 Years in Deep Tech and Research Commercialisation
 
-<img src="/images/Gus2.jpg" height="350px" width="350px" class="center">
+<img src="/images/Gus2.jpg" height="350px" width="350px" class="center">  
 <br>
 ## Entrepreneurship Experience  
 ### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Program  
