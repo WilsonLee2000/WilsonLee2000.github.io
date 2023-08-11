@@ -11,7 +11,8 @@ author_profile: true
 "Why do I aspire to be an entrepreneur?" I asked myself when prompted to write this section. Not all problems in the world can be solved by governments and large corporations alone. 
 
 The world today has a lot of problems!  
-<img src="/images/UNFDProb.JPG" height="500px" width="500px" class="center">
+<br>
+<img src="/images/UNFDProb.JPG" height="800px" width="800px" class="center">
 
 Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place. As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
 
