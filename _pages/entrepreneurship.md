@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+  
 # Introduction  
 "Why do I aspire to be an entrepreneur?" I asked myself when prompted to write this section. Not all problems in the world can be solved by governments and large corporations alone. Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place.
 
