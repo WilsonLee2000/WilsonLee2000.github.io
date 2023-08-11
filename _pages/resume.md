@@ -11,4 +11,4 @@ redirect_from:
 
 # My Resume (as of July 2023).
 
-<img src="/images/Resume.jpg" height="1000px" width="1000px">
+<img src="/images/Resume.jpg" height="1000px" width="800px">
