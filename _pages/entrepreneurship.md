@@ -17,6 +17,7 @@ Being an entrepreneur is more than just taking risks and dreaming. It means turn
 This section provides a glimpse into my world as an aspiring entrepreneur. Join me as I share the milestones, insights, and experiences that not only shape my pursuit of entrepreneurial ventures but also underscore my enduring mission to turn my ideas into actions that bring about positive changes.
 
 Welcome to my journey!    
+  
 
 # Entrepreneurship Experience
 ## Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Program  
