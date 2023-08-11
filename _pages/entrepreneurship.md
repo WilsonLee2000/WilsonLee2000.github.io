@@ -11,9 +11,7 @@ author_profile: true
 
 As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
 
-Being an entrepreneur is more than just taking risks and dreaming. It means turning things you genuinely care about into significant goals. It's about daring to change things and not giving up, even in challenging environments. I believe the best solutions come when you truly understand the problems you're trying to fix – problems that make you worried and emotional.
-
-Even though I'm not officially a startup founder, my journey as an entrepreneur wannabe shows that I want to make things better. It demonstrates that I want to turn my ideas into actions that bring about positive changes. Every step of this journey teaches me that being an entrepreneur is both exciting and tough, and you learn from both successes and mistakes.
+Being an entrepreneur is more than just taking risks and dreaming. It means turning things you genuinely care about into significant goals. It's about daring to change things and not giving up, even in challenging environments. Even though I'm not officially a startup founder, my aspirations to be an entrepreneur shows that I want to change the world and disrupt the status quo. Every step of this journey teaches me that being an entrepreneur is both exciting and tough, and you learn from both successes and mistakes.
 
 This section provides a glimpse into my world as an aspiring entrepreneur. Join me as I share the milestones, insights, and experiences that not only shape my pursuit of entrepreneurial ventures but also underscore my enduring mission to turn my ideas into actions that bring about positive changes.
 
