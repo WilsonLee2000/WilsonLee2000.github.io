@@ -5,7 +5,7 @@ permalink: /EducationAndSkills/
 author_profile: true
 ---
 {% include base_path %}
-<br> 
+
 # Education  
 **National University of Singapore | August 2021 to Present**  
 - Bachelor of Engineering (Honours) in Computer Engineering with Minor in Interactive Media Development  
@@ -31,7 +31,7 @@ author_profile: true
 - Class Subject Representative
 - College Ambassador for Anderson Junior College Open House 2018  
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
-<br>  
+
 # Skills  
 **Programming Languages:** C, C++, Java, JavaScript, Python    
 **Front-End Framework:** Angular 11  
