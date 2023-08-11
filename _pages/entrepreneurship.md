@@ -18,7 +18,17 @@ This section provides a glimpse into my world as an aspiring entrepreneur. Join 
 
 Welcome to my journey!    
 <br>
+## My Entrepreneurship Mentor - Mr Gustavo Liu 
+* Founder & CEO of RescaleLab, a Learning Experience platform  
+* TEDx 2021 Speaker for Venture Creation for Generation of Entrepreneurs
+* Lead Instructor in Entrepreneurship and Venture Creation at 5 Singapore Institutions including  
+  the National University of Singapore (NUS) and Nanyang Technological University (NTU)  
+* 11 Years in Asset Management and Private Banking with UOB Bank, HSBC Bank, and Citibank
+* Designed, Managed, and Mentored Over 300 Startups over the past 5 years
+* 4 Years in Deep Tech and Research Commercialisation
 
+<img src="/images/Gus2.jpg" height="350px" width="350px" class="center">
+<br>
 ## Entrepreneurship Experience  
 ### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Program  
 From April to July 2023, I had the opportunity to take on the role of an intern Co-Lead Facilitator in RescaleLab's deep-tech startup journey within A*StartCentral's Essentials for Entrepreneurship Program. Throughout this transformative 20-week venture-building program, I collaborated closely with RescaleLab's founder, Mr Gustavo Liu. He served as a lead instructor in this entrepreneurship program, along with a team of exceptional instructors including Mr Harry Huo, Mr Patrick Ng, Mr Dennis Poh, and Mr Sebastien Corominas. The completion of this transformative 20-week venture-building program marks not only the end of an intensive program but also the beginning of a new era of innovation and impact within the startup ecosystem. Looking ahead, I am excited about the future of RescaleLab and the continued pursuit of innovation and entrepreneurship.  
@@ -37,13 +47,3 @@ From the 7th to the 9th of June, as a platform manager with RescaleLab, I had th
 
 <img src="/images/Innov1.jpeg" height="350px" width="350px" class="center"> <img src="/images/Innov2.jpeg" height="800px" width="620px" class="center">       
 <br>
-## My Entrepreneurship Mentor - Mr Gustavo Liu 
-* Founder & CEO of RescaleLab, a Learning Experience platform  
-* TEDx 2021 Speaker for Venture Creation for Generation of Entrepreneurs
-* Lead Instructor in Entrepreneurship and Venture Creation at 5 Singapore Institutions including  
-  the National University of Singapore (NUS) and Nanyang Technological University (NTU)  
-* 11 Years in Asset Management and Private Banking with UOB Bank, HSBC Bank, and Citibank
-* Designed, Managed, and Mentored Over 300 Startups over the past 5 years
-* 4 Years in Deep Tech and Research Commercialisation
-
-<img src="/images/Gus2.jpg" height="350px" width="350px" class="center">
