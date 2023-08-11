@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
   
 ## Introduction  
-"Why do I aspire to be an entrepreneur?" I asked myself when prompted to write this section. Not all problems in the world can be solved by governments and large corporations alone. Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place.
+"Why do I aspire to be an entrepreneur?" I asked myself when prompted to write this section. Not all problems in the world can be solved by governments and large corporations alone. 
 
 The world today has a lot of problems!  
-<img src="/images/UNFDProb.JPG" height="350px" width="350px" class="center">
+<img src="/images/UNFDProb.JPG" height="500px" width="500px" class="center">
 
-As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
+Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place. As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
 
 Being an entrepreneur is more than just taking risks and dreaming. It means turning things you genuinely care about into significant goals. It's about daring to change things and not giving up, even in challenging environments. Even though I'm not officially a startup founder, my aspirations to be an entrepreneur shows that I want to change the world and disrupt the status quo. Every step of this journey teaches me that being an entrepreneur is both exciting and tough, and you learn from both successes and mistakes.
 
