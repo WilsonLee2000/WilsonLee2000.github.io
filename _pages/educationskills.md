@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Education and Skills"
 permalink: /EducationAndSkills/
 author_profile: true
 ---
-
-{% include base_path %}
 
 Education
 ======
