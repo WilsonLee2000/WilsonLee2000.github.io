@@ -33,7 +33,7 @@ On the 21st of July, as a platform manager with RescaleLab, I had the opportunit
 ## Experience the Future of Innovation with RescaleLab: Innovfest 2023, Asia’s Premier Tech Startup Conference!
 From the 7th to the 9th of June, as a platform manager with RescaleLab, I had the privilege of participating in InnovFest 2023, Asia's Premier Tech Startup Conference. The conference presented an impressive array of startup pitches, spotlighting the immense talent and innovation within our industry. During this event, I had the opportunity to engage with a diverse range of entrepreneurs and startup founders. These interactions offered valuable insights into the perspectives and experiences of startup founders. I'm truly grateful to be a part of this dynamic community of innovators.
 
-<img src="/images/Innov1.jpeg" height="350px" width="350px" class="center"> <img src="/images/Innov2.jpeg" height="650px" width="600px" class="center">    
+<img src="/images/Innov1.jpeg" height="350px" width="350px" class="center"> <img src="/images/Innov2.jpeg" height="680px" width="600px" class="center">    
   
   
 # My Entrepreneurship Mentor - Mr Gustavo Liu 
