@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Education  
+## Education  
 **National University of Singapore | August 2021 to Present**  
 - Bachelor of Engineering (Honours) in Computer Engineering with Minor in Interactive Media Development  
 - Tembusu College - University Town College Programme  
@@ -32,7 +32,7 @@ author_profile: true
 - College Ambassador for Anderson Junior College Open House 2018  
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
 
-# Skills  
+## Skills  
 **Programming Languages:** C, C++, Java, JavaScript, Python    
 **Front-End Framework:** Angular 11  
 **Back-End:** Node.js  
