@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+# Introduction  
 "Why do I aspire to be an entrepreneur?" I asked myself when prompted to write this section. Not all problems in the world can be solved by governments and large corporations alone. Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place.
 
 As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
@@ -15,7 +16,7 @@ Being an entrepreneur is more than just taking risks and dreaming. It means turn
 
 This section provides a glimpse into my world as an aspiring entrepreneur. Join me as I share the milestones, insights, and experiences that not only shape my pursuit of entrepreneurial ventures but also underscore my enduring mission to turn my ideas into actions that bring about positive changes.
 
-Welcome to my journey.  
+Welcome to my journey!    
 
 # Entrepreneurship Experience
 ## Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Program  
