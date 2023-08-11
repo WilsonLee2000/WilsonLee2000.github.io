@@ -32,7 +32,7 @@ Education
 - Class Subject Representative
 - College Ambassador for Anderson Junior College Open House 2018  
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
-  
+<br>  
 Skills
 ======
 **Programming Languages:** C, C++, Java, JavaScript, Python    
