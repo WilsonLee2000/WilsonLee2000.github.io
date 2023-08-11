@@ -35,7 +35,7 @@ From the 7th to the 9th of June, as a platform manager with RescaleLab, I had th
 
 <img src="/images/Innov1.jpeg" height="350px" width="350px" class="center"> <img src="/images/Innov2.jpeg" height="600px" width="600px" class="center">    
 
-## My Entrepreneurship Mentor - Mr Gustavo Liu 
+# My Entrepreneurship Mentor - Mr Gustavo Liu 
 * Founder & CEO of RescaleLab, a Learning Experience platform  
 * TEDx 2021 Speaker for Venture Creation for Generation of Entrepreneurs
 * Lead Instructor in Entrepreneurship and Venture Creation at 5 Singapore Institutions including the National University of Singapore (NUS)
