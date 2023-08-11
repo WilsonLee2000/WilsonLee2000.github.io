@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Work Experience ([Click Me!](https://wilsonlee2000.github.io/workexperience/))  
+## Work Experience ([View](https://wilsonlee2000.github.io/workexperience/))  
 **RescaleLab** (a subsidiary of E.A.T. Launchpad)
 * Software Engineering Intern  
 * May 2023 to Present   
@@ -20,7 +20,7 @@ author_profile: true
 * Constituency Support Officer  
 * November 2016 to January 2017  
 
-## Project Experience ([Click Me!](https://wilsonlee2000.github.io/projectexperience/))
+## Project Experience ([View](https://wilsonlee2000.github.io/projectexperience/))
 **NUS School of Computing Project Orbital**
 * Independent Software Development Project
 * May 2022 to August 2022
