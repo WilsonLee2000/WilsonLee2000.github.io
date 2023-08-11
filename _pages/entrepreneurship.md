@@ -28,7 +28,7 @@ From April to July 2023, I had the opportunity to take on the role of an intern 
 <img src="/images/astar3.jpeg" height="840px" width="840px" class="center">  
 
 ## Tech and Startup Frontier: Attending APAC Summit 2023 as a Student Intern with RescaleLab  
-On the 21st of July, as a platform manager with RescaleLab, I had the opportunity to participate in the bi-annual APAC Summit 2023 organized by Plug and Play APAC at the National Gallery Singapore, alongside my founder, Gustavo Liu. The summit featured a lineup of fabulous startup pitches, showcasing the immense talent and innovation present in our industry. Witnessing the passion and dedication of these entrepreneurs was truly inspiring. I am grateful to have had the opportunity to network and connect with industry professionals from various sectors during the summit!
+On the 21st of July, as a platform manager with RescaleLab, I had the opportunity to participate in the bi-annual APAC Summit 2023 organized by Plug and Play APAC at the National Gallery Singapore, alongside my founder, Mr Gustavo Liu. The summit featured a lineup of fabulous startup pitches, showcasing the immense talent and innovation present in our industry. Witnessing the passion and dedication of these entrepreneurs was truly inspiring. I am grateful to have had the opportunity to network and connect with industry professionals from various sectors during the summit!
 
 <img src="/images/pnp1.jpeg" height="350px" width="350px" class="center"> <img src="/images/pnp3.jpeg" height="350px" width="350px" class="center">    
 
