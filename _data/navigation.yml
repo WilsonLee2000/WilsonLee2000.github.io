@@ -2,6 +2,9 @@
 main:
   - title: "Resume"
     url: /resume/
+    
+  - title: "Education and Skills"
+    url: /EducationAndSkills/
 
   - title: "Experience"
     url: /experience/    
