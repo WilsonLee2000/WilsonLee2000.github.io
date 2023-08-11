@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Skills"
+title: ""
 permalink: /EducationAndSkills/
 author_profile: true
 ---
