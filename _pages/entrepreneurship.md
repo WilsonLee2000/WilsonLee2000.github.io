@@ -18,16 +18,12 @@ From April to July 2023, I had the opportunity to take on the role of an intern 
 ### Tech and Startup Frontier: Attending APAC Summit 2023 as a Student Intern with RescaleLab  
 On the 21st of July, as a platform manager with RescaleLab, I had the opportunity to participate in the bi-annual APAC Summit 2023 organized by Plug and Play APAC at the National Gallery Singapore, alongside my founder, Gustavo Liu. The summit featured a lineup of fabulous startup pitches, showcasing the immense talent and innovation present in our industry. Witnessing the passion and dedication of these entrepreneurs was truly inspiring. I am grateful to have had the opportunity to network and connect with industry professionals from various sectors during the summit!
 
-<img src="/images/pnp1.jpeg" height="350px" width="350px" class="center">   
-
-<img src="/images/pnp3.jpeg" height="350px" width="350px" class="center">    
+<img src="/images/pnp1.jpeg" height="350px" width="350px" class="center"> <img src="/images/pnp3.jpeg" height="350px" width="350px" class="center">    
 
 ### Experience the Future of Innovation with RescaleLab: Innovfest 2023, Asia’s Premier Tech Startup Conference!
 From the 7th to the 9th of June, as a platform manager with RescaleLab, I had the privilege of participating in InnovFest 2023, Asia's Premier Tech Startup Conference. The conference presented an impressive array of startup pitches, spotlighting the immense talent and innovation within our industry. During this event, I had the opportunity to engage with a diverse range of entrepreneurs and startup founders. These interactions offered valuable insights into the perspectives and experiences of startup founders. I'm truly grateful to be a part of this dynamic community of innovators.
 
-<img src="/images/Innov1.jpeg" height="350px" width="350px" class="center">   
-
-<img src="/images/Innov2.jpeg" height="350px" width="350px" class="center">    
+<img src="/images/Innov1.jpeg" height="350px" width="350px" class="center"> <img src="/images/Innov2.jpeg" height="450px" width="450px" class="center">    
 
 ## My Entrepreneurship Mentor - Mr Gustavo Liu 
 * Founder & CEO of RescaleLab, a Learning Experience platform  
