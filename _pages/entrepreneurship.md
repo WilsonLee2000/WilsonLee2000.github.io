@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+"Why do I aspire to be an entrepreneur?" I asked myself when prompted to write this section. Not all problems in the world can be solved by governments and large corporations alone. Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place.
+
+As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
+
+Being an entrepreneur is more than just taking risks and dreaming. It means turning things you genuinely care about into significant goals. It's about daring to change things and not giving up, even in challenging environments. I believe the best solutions come when you truly understand the problems you're trying to fix – problems that make you worried and emotional.
+
+Even though I'm not officially a startup founder, my journey as an entrepreneur wannabe shows that I want to make things better. It demonstrates that I want to turn my ideas into actions that bring about positive changes. Every step of this journey teaches me that being an entrepreneur is both exciting and tough, and you learn from both successes and mistakes.
+
+This section provides a glimpse into my world as an aspiring entrepreneur. Join me as I share the milestones, insights, and experiences that not only shape my pursuit of entrepreneurial ventures but also underscore my enduring mission to turn my ideas into actions that bring about positive changes.
+
+Welcome to my journey.  
+
 ## Entrepreneurship Events:  
 ### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Program  
 From April to July 2023, I had the opportunity to take on the role of an intern Co-Lead Facilitator in RescaleLab's deep-tech startup journey within A*StartCentral's Essentials for Entrepreneurship Program. As an intern with RescaleLab, I had the incredible opportunity to support this transformative 20-week venture-building program, working alongside RescaleLab's founder, Gustavo Liu. He served as a lead instructor in this entrepreneurship program, along with a team of exceptional instructors including Mr. Harry Huo, Mr. Patrick Ng, Mr. Dennis Poh, and Mr. Sebastien Corominas. The completion of this transformative 20-week venture-building program marks not only the end of an intensive program but also the beginning of a new era of innovation and impact within the startup ecosystem. Looking ahead, I am excited about the future of RescaleLab and the continued pursuit of innovation and entrepreneurship.  
