@@ -5,7 +5,7 @@ permalink: /EducationAndSkills/
 author_profile: true
 ---
 {% include base_path %}
-  
+ <br> 
 Education
 ======
 **National University of Singapore | August 2021 to Present**  
