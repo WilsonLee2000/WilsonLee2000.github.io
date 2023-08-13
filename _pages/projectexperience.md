@@ -4,9 +4,7 @@ permalink: /projectexperience/
 author_profile: true
 ---
 
-## Project Experience   
-
-**Orbital | NUS School of Computing**   
+## **Orbital | NUS School of Computing**   
 *Independent Software Development Project | May 2022 to August 2022*  
 * Developed a [mobile navigation application](https://drive.google.com/file/d/1LctkmaBrIxnTpcVH-p-aYIDS_9tRh_dl/view?usp=drive_link) using JavaScript and React Native that helps visitors with the directions to their destinations within the School of Computing  
 * Collaborated in a team of 2, ensuring project success through effective communication and coordination  
