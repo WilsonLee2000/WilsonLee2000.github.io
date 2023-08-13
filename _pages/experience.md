@@ -28,8 +28,8 @@ author_profile: true
 ## Volunteer Experience
 **Blangah Rise Primary School**
 * February 2018 to June 2018  
-* Tutored students from underprivileged families, building meaningful connections with the children and inspiring them.  
+* Tutored students from underprivileged families, building meaningful connections with the children and inspiring them  
 
-**Yishun Student Care Service**  
+**SHINE Children and Youth Services**  
 * February 2017 to February 2018  
-* As a student volunteer with Yishun Student Care Service for SOAR Tuition Programme, I tutored children with learning disabilities, creating a safe space for them to learn new knowledge.
+* As a student volunteer with SHINE Children and Youth Services for SOAR Tuition Programme, I tutored children with learning disabilities, creating a safe space for them to learn new knowledge
