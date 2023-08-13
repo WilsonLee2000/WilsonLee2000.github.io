@@ -23,7 +23,7 @@ author_profile: true
 ## **Republic Polytechnic | Office of Student Support**  
 *Office of Student Support Admin | Apr 2021 to July 2021*
 * Advised and processed at least 30 cases of bulk financial assistance schemes, bursary application, scholarship forms and supporting documents
-* Handled queries by students via Outlook, phone calls and Microsoft Teams to ensure that procedures are adhered to, and documents submitted to the Ministry of Education are without error, and kept a watchful eye on any bursary fraud
+* Handled queries by students via Outlook, phone calls and Microsoft Teams to ensure that procedures are adhered to, documents submitted to the Ministry of Education are without error, and kept a watchful eye on any bursary fraud
 * Performed Data Entry using Excel, and other ad-hoc administrative duties  
 <br>  
 
