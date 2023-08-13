@@ -27,7 +27,7 @@ author_profile: true
 * Performed Data Entry using Excel, and other ad-hoc administrative duties  
 <br>  
 
-##**People's Association | Keat Hong Community Club**  
+## **People's Association | Keat Hong Community Club**  
 *Office of Student Support Admin | Nov 2016 to Jan 2017*
 * Communicated with members of the public, actively promoted and marketed community club activities and courses to customers
 * Provided administrative support to the constituency office and grassroots organisations
