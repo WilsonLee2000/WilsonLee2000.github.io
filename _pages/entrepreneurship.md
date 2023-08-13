@@ -28,7 +28,7 @@ This section offers a glimpse into my world as an aspiring entrepreneur, where I
   the National University of Singapore (NUS) and Nanyang Technological University (NTU)  
 * 11 Years in Asset Management and Private Banking with UOB Bank, HSBC Bank, and Citibank
 * Designed, Managed, and Mentored Over 300 Startups over the past 5 years
-* 4 Years in Deep Tech and Research Commercialisation
+* 4 Years in Deep Tech and Research Commercialisation  
 <img src="/images/Gus2.jpg" height="350px" width="350px" class="center">  
 <br>
 
