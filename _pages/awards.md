@@ -14,5 +14,5 @@ author_profile: true
 * Edusave Award For Achievement, Good Leadership And Service (EAGLES) 2016
 * Edusave Scholarship 2016
 * Champions of NPCC Challenge Shield 2016
-* Colours Award (Gold Award) 2016
+* National Police Cadet Corps Colours Award (Gold Award) 2016
 * Edusave Scholarship 2015
