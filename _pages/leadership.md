@@ -34,7 +34,7 @@ Eager to make a difference, I initiated a Residential Project, organizing a hear
 
 <img src="/images/NYAA3.jpg" height="850px" width="850px">
 
-### Anderson Serangoon Junior College Orientation Group Leader | February 2018
+### Anderson Junior College Orientation Group Leader | February 2018
 In February 2018, I had the privilege of being one of 6 orientation group leaders, alongside students from both Anderson Junior College and Serangoon Junior College. This unique opportunity placed me in the role of an Orientation Group Leader for the incoming JC1 students, guiding a group of over 20 JC1 students through a transformative 6-day orientation week. What made this orientation truly exceptional was that it marked the first collaborative effort between orientation leaders from both Anderson Junior College and Serangoon Junior College, coming together to ensure the success of this orientation. 
 
 Through this experience, I formed meaningful connections and friendships, not only with fellow students from Anderson Junior College but also with those from Serangoon Junior College. Observing the seamless integration of JC1 students into the junior college environment, characterized by their radiant smiles, fills me with immense joy. Within my role, I took charge of various administrative and logistical aspects concerning the JC1 students in my Orientation Group.
