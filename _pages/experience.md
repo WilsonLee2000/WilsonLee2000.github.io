@@ -32,4 +32,4 @@ author_profile: true
 
 **SHINE Children and Youth Services**  
 * February 2017 to February 2018  
-* As a student volunteer with SHINE Children and Youth Services for SOAR Tuition Programme, I tutored children with learning disabilities, creating a safe space for them to learn new knowledge
+* Tutored children with learning disabilities as a student volunteer with SHINE Children and Youth Services for the SOAR Tuition Programme, creating a safe space for them to learn new knowledge
