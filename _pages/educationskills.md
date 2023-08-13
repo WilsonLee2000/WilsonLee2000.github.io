@@ -15,7 +15,7 @@ author_profile: true
 - Hackathons and Competitions:
   * IDEATE Ideathon 2022 [Organised by NUS IDP Students' Club]     
   * Shopee Code League 2022 [Organised by Shoppee Singapore] ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile)) 
-  * HUAWEI CLOUD SPARK Hackathon Singapore 2022 [Organised by Huawei]  
+  * HUAWEI CLOUD SPARK Hackathon Singapore 2021 [Organised by Huawei]  
 - Co-Curricular Activities:
   * NUS Korean Cultural Interest Group (KCIG Dance Team & Korean Cultural Society)
   * NUS Comedy Club
