@@ -34,6 +34,6 @@ author_profile: true
 **Programming Languages:** C, C++, Java, JavaScript, Python      
 **Front-End:** Angular 11, React Native    
 **Back-End:** Node.js    
-**Software:** RStudio, MATLAB, Stella Architect, AutoCAD, Canva, Microsoft Excel, Word and Powerpoint    
+**Software Proficiency:** RStudio, MATLAB, Stella Architect, AutoCAD, Canva, Microsoft Excel, Word and Powerpoint    
 **Web Development:** HTML, CSS  
 **Business Acumen:** Sales, Strategic Representation, Lead Generation, Networking, Customer Relationship Management, Marketing, Team Management  
