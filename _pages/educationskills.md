@@ -13,9 +13,7 @@ author_profile: true
 - Projects: NUS School of Computing Orbital (CP2106: Independent Software Development Project)  
   Level of Achievement: Apollo 11
 - Hackathons and Competitions:
-  * Hack & Roll 2023 [Organised by NUS Hackers]  
-  * IDEATE Ideathon 2022 [Organised by NUS IDP Students' Club]  
-  * LifeHack 2022 [Organised by NUS Students' Computing Club] ([Certification](https://drive.google.com/file/d/14Hj1edP0CfCnwiaWyKoISDlMtLn6SIyX/view?usp=drive_link))    
+  * IDEATE Ideathon 2022 [Organised by NUS IDP Students' Club]     
   * Shopee Code League 2022 [Organised by Shoppee Singapore] ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile)) 
   * HUAWEI CLOUD SPARK Hackathon Singapore 2022 [Organised by Huawei]  
 - Co-Curricular Activities:
@@ -33,9 +31,9 @@ author_profile: true
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
 
 ## Skills  
-**Programming Languages:** C, C++, Java, JavaScript, Python    
-**Front-End Framework:** Angular 11  
-**Back-End:** Node.js  
-**Software:** RStudio, MATLAB, Stella Architect, Microsoft Office    
-**Soft Skills:** Entrepreneurship, Communication, Teamwork, Creativity and Innovation  
-**Hard Skills:** Event Management, Operations Management
+**Programming Languages:** C, C++, Java, JavaScript, Python      
+**Front-End:** Angular 11, React Native    
+**Back-End:** Node.js    
+**Software:** RStudio, MATLAB, Stella Architect, AutoCAD, Canva, Microsoft Excel, Word and Powerpoint    
+**Web Development:** HTML, CSS  
+**Business Acumen:** Sales, Strategic Representation, Lead Generation, Networking, Customer Relationship Management, Marketing, Team Management  
