@@ -11,7 +11,7 @@ author_profile: true
 * Attract potential clients, investors, and partners to RescaleLab through business networking and platform demonstrations  
 * Recruit and train new interns at RescaleLab  
 * Part of RescaleLab tech team in developing new features, identifying and fixing bugs for the platform  
-* Represented RescaleLab at business tech conferences (InnovFest2023 and APAC Summit 2023)  
+* Represented RescaleLab at business tech conferences (InnovFest 2023 and APAC Summit 2023)  
 * Revitalized RescaleLab's marketing platforms to attract potential clients, investors, and partners (Facebook, Instagram, LinkedIn and Telegram)  
 * Internship Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)  
 
