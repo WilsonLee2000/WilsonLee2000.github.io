@@ -20,7 +20,7 @@ author_profile: true
   * NUS Korean Cultural Interest Group (KCIG Dance Team & Korean Cultural Society)
   * NUS Comedy Club
   * NUS Muay Thai Club
-  * Orientation Group Leader (School of Computing Freshman Social Camp 2022)
+  * Orientation Group Leader (School of Computing Freshmen Social Camp 2022)
   * Orientation Group Leader (School of Computing Orientation Week 2022)
 
 **Anderson Junior College | February 2017 to December 2018**  
