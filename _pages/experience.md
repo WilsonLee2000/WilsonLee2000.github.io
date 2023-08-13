@@ -10,7 +10,7 @@ author_profile: true
 ## Work Experience ([View](https://wilsonlee2000.github.io/workexperience/))  
 **RescaleLab** (a subsidiary of E.A.T. Launchpad)
 * Software Engineering Intern  
-* May 2023 to Present   
+* April 2023 to Present   
 
 **Republic Polytechnic**  
 * Office of Student Support Admin  
