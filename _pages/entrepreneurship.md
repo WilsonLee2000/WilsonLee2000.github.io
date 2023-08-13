@@ -20,7 +20,6 @@ Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and u
 Being an entrepreneur is more than just taking risks and dreaming. It means turning things you genuinely care about into significant goals. It's about daring to change things and not giving up, even in challenging environments. Even though I'm not officially a startup founder, my aspirations to be an entrepreneur show that I want to change the world and disrupt the status quo. Every step of this journey teaches me that being an entrepreneur is both exciting and demanding, offering lessons from both successes and failures.
 
 This section offers a glimpse into my world as an aspiring entrepreneur, where I share the milestones, insights, and experiences that shape my pursuit of entrepreneurial ventures. I invite you to join me on this exciting journey!
-
 <br>
 ## My Entrepreneurship Mentor - Mr Gustavo Liu 
 * Founder & CEO of RescaleLab, a Learning Experience platform  
