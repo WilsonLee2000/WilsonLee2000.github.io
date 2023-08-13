@@ -34,7 +34,7 @@ This section offers a glimpse into my world as an aspiring entrepreneur, where I
 <br>
 
 ## Entrepreneurship Experience  
-### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Program  
+### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Programme    
 From April to July 2023, I had the opportunity to take on the role of an intern Co-Lead Facilitator in RescaleLab's deep-tech startup journey within A*StartCentral's Essentials for Entrepreneurship Programme. Throughout this transformative 20-week venture-building programme, I collaborated closely with RescaleLab's founder, Mr Gustavo Liu. He served as a lead instructor in this entrepreneurship programme, along with a team of exceptional instructors including Mr Harry Huo, Mr Patrick Ng, Mr Dennis Poh, and Mr Sebastien Corominas. The completion of this transformative 20-week venture-building programme marks not only the end of an intensive programme but also the beginning of a new era of innovation and impact within the startup ecosystem. Looking ahead, I am excited about the future of RescaleLab and the continued pursuit of innovation and entrepreneurship.  
 
 <img src="/images/astar1.jpeg" height="840px" width="840px" class="center"> 
