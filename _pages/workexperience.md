@@ -28,7 +28,7 @@ author_profile: true
 <br>  
 
 ## **People's Association | Keat Hong Community Club**  
-*Office of Student Support Admin | Nov 2016 to Jan 2017*
+*Constituency Support Officer | Nov 2016 to Jan 2017*
 * Communicated with members of the public, actively promoted and marketed community club activities and courses to customers
 * Provided administrative support to the constituency office and grassroots organisations
 * Initiated and implemented activities, programmes, and services to meet the needs of the community
