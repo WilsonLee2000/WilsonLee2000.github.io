@@ -15,7 +15,7 @@ author_profile: true
 * Revitalized RescaleLab's marketing platforms to attract potential clients, investors, and partners (Facebook, Instagram, LinkedIn and Telegram)  
 * Internship Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)  
 
-<img src="/images/1690726204517.jpeg" height="800px" width="800px"> 
+<img src="/images/1690726204517.jpeg" height="750px" width="800px"> 
 
 <img src="/images/Rescale.jpg" height="800px" width="800px">
 <br>
