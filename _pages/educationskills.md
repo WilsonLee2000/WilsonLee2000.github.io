@@ -25,7 +25,7 @@ author_profile: true
 
 **Anderson Junior College | February 2017 to December 2018**  
 - Co-Curricular Activity: Interact Club  
-- AJC Alpha Scholars Programme  
+- AJC Alpha Scholars Programme ([View](https://drive.google.com/file/d/15QQsHjDdmQS-rzZJJN8ToQtZDqbAOwsL/view?usp=drive_link))  
 - Class Subject Representative
 - College Ambassador for Anderson Junior College Open House 2018  
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
