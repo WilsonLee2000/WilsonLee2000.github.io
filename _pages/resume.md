@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# (as of July 2023)
+# (as of August 2023)
 
 <img src="/images/WilsonResume.jpg" height="1000px" width="800px">
