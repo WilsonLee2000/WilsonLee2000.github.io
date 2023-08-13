@@ -15,7 +15,7 @@ In July 2022, I had the opportunity of leading a group of freshmen during the Sc
 <img src="/images/OWEEK2.jpg" height="850px" width="850px">
 
 ### NUS School of Computing Orientation Group Leader | Freshmen Social Camp | June 2022
-In June 2022, I had the privilege of serving as an Orientation Group Leader for a group of 13 enthusiastic freshmen during the School of Computing's Orientation Camp. Our time together was filled with laughter and team-building activities that brought us closer! As their Orientation Group Leader, I aimed to create a sense of belonging for them within the university and to make their orientation experience a memorable one. Witnessing their bonds deepen as they made new friends and embraced the orientation experience made me very happy. 
+In June 2022, I had the privilege of serving as an Orientation Group Leader for a group of 13 enthusiastic freshmen during the School of Computing's Freshmen Social Camp. Our time together was filled with laughter and team-building activities that brought us closer! As their Orientation Group Leader, I aimed to create a sense of belonging for them within the university and to make their orientation experience a memorable one. Witnessing their bonds deepen as they made new friends and embraced the orientation experience made me very happy. 
 
 This serves as a reminder that what I have done for my freshmen, despite juggling multiple tasks during orientation such as their administrations, food, and safety, is undoubtedly worthwhile. I trust that the memories forged and connections established during this enriching orientation experience will remain steadfast as they navigate their transformative years ahead in the university!
 
