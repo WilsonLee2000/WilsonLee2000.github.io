@@ -12,7 +12,7 @@ author_profile: true
 
 The world today has a lot of problems!  
 <br>
-<img src="/images/UNDP.jpg" height="800px" width="800px" class="center">
+<img src="/images/UN.jpeg" height="800px" width="800px" class="center">
 #### Source: United Nations Department of Economic and Social Affairs  
 
 Aspiring entrepreneurs like me aim to solve problems we dislike, are angry and upset about, to make the world a better place. As an entrepreneur wannabe, I'm drawn to the exciting uncertainty of the startup journey, where every day presents new obstacles to overcome and new opportunities to seize.
