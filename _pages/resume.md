@@ -11,4 +11,4 @@ redirect_from:
 
 # (as of August 2023)
 
-<img src="/images/WilsonResume.jpg" height="1000px" width="800px">
+<img src="/images/WilsonResumeUpdated.jpg" height="1000px" width="800px">
