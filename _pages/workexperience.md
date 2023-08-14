@@ -25,7 +25,6 @@ author_profile: true
 * Advised and processed at least 30 cases of bulk financial assistance schemes, bursary application, scholarship forms and supporting documents
 * Handled queries by students via Outlook, phone calls and Microsoft Teams to ensure that procedures are adhered to, documents submitted to the Ministry of Education are without error, and kept a watchful eye on any bursary fraud
 * Performed Data Entry using Excel, and other ad-hoc administrative duties  
-<br>  
 
 ## **People's Association | Keat Hong Community Club**  
 *Constituency Support Officer | Nov 2016 to Jan 2017*
