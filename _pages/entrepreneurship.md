@@ -34,6 +34,14 @@ This section offers a glimpse into my world as an aspiring entrepreneur, where I
 <br>
 
 ## Entrepreneurship Experience  
+### A*StartCentral Talent Matching Programme 2023: Fostering Entrepreneurship and Collaboration Among Innovators  
+From the 24th to the 25th of August 2023, the AStartCentral Talent Matching Programme brought together a diverse group of entrepreneurs, founders, co-founders, researchers, and scientists from various industries, held at AStartCentral. I had the opportunity to manage this event as an intern co-lead facilitator. This unique initiative embraced a "speed-networking and dating" concept, enabling participants to introduce themselves, exchange ideas, and explore potential collaborations. The program's primary objective was to identify compatible co-founders and new partners, promoting entrepreneurship and innovation across industries. Much like the A*StartCentral's Essentials for Entrepreneurship Programme experience, this event aimed to kindle the sparks of creativity and foster connections that drive the future of entrepreneurship and innovation. It served as a testament to the power of networking in nurturing new ideas and partnerships within the ever-evolving landscape of technology and entrepreneurship. RescaleLab is once again honored to be a part of such an impactful entrepreneurship event!  
+
+<img src="/images/ASCT1.jpeg" height="840px" width="840px" class="center"> 
+
+<img src="/images/ASCT2.jpeg" height="840px" width="840px" class="center">  
+
+
 ### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Programme    
 From April to July 2023, I had the opportunity to take on the role of an intern Co-Lead Facilitator in RescaleLab's deep-tech startup journey within A*StartCentral's Essentials for Entrepreneurship Programme. Throughout this transformative 20-week venture-building programme, I collaborated closely with RescaleLab's founder, Mr Gustavo Liu. He served as a lead instructor in this entrepreneurship programme, along with a team of exceptional instructors including Mr Harry Huo, Mr Patrick Ng, Mr Dennis Poh, and Mr Sebastien Corominas. The completion of this transformative 20-week venture-building programme marks not only the end of an intensive programme but also the beginning of a new era of innovation and impact within the startup ecosystem. Looking ahead, I am excited about the future of RescaleLab and the continued pursuit of innovation and entrepreneurship.  
 
