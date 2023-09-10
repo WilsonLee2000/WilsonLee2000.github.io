@@ -39,7 +39,7 @@ From the 24th to the 25th of August 2023, the A*StartCentral's Talent Matching P
 
 <img src="/images/ASCT1.jpeg" height="840px" width="840px" class="center"> 
 
-<img src="/images/ASCT2.jpeg" height="840px" width="840px" class="center">  
+<img src="/images/ASCT2.jpeg" height="450px" width="450px" class="center">  
 
 
 ### Empowering Entrepreneurship: A Journey with RescaleLab’s A*StartCentral’s Essentials for Entrepreneurship Programme    
