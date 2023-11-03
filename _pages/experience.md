@@ -25,6 +25,14 @@ author_profile: true
 * Independent Software Development Project
 * May 2022 to August 2022
 
+**Engineering Principles And Practice I**   
+* Sensor-assisted Autonomous Robotic Vehicle Project    
+* August 2021 to November 2022   
+
+**Design and Make**  
+* Engineering Design Project  
+* August 2021 to November 2022  
+
 ## Volunteer Experience
 **Blangah Rise Primary School**
 * February 2018 to June 2018  
