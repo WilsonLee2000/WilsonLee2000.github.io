@@ -22,7 +22,7 @@ author_profile: true
 
 ## Project Experience ([View](https://wilsonlee2000.github.io/projectexperience/))  
 **Digital Design**  
-* Basys 3 Artix-7 FPGA Board Project  
+* Basys3 Artix-7 FPGA Board Design Project  
 * Jan 2023 to May 2023    
 
 **NUS School of Computing Project Orbital**
