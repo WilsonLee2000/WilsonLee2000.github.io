@@ -20,7 +20,11 @@ author_profile: true
 * Constituency Support Officer  
 * November 2016 to January 2017  
 
-## Project Experience ([View](https://wilsonlee2000.github.io/projectexperience/))
+## Project Experience ([View](https://wilsonlee2000.github.io/projectexperience/))  
+**Digital Design**  
+* Basys 3 Artix-7 FPGA Board Project  
+* Jan 2023 to May 2023    
+
 **NUS School of Computing Project Orbital**
 * Independent Software Development Project
 * May 2022 to August 2022
