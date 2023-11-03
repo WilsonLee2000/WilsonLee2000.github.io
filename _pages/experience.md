@@ -21,7 +21,7 @@ author_profile: true
 * November 2016 to January 2017  
 
 ## Project Experience ([View](https://wilsonlee2000.github.io/projectexperience/))  
-**Digital Design**  
+**Digital Design Project**  
 * Basys3 Artix-7 FPGA Board Design Project  
 * Jan 2023 to May 2023    
 
@@ -29,15 +29,15 @@ author_profile: true
 * Independent Software Development Project
 * May 2022 to August 2022
 
-**Engineering Principles And Practice II**   
+**Engineering Principles And Practice II Project**   
 * Complex Computer Engineering System Project  
 * January 2022 to May 2022   
 
-**Engineering Principles And Practice I**   
+**Engineering Principles And Practice I Project**   
 * Sensor-assisted Autonomous Robotic Vehicle Project    
 * August 2021 to November 2022   
 
-**Design and Make**  
+**Design and Make Project**  
 * Engineering Design Project  
 * August 2021 to November 2022  
 
