@@ -24,8 +24,14 @@ author_profile: true
 * Acquired proficiency in bare-metal programming and a wide range of topics such as Microcontroller Fundamentals, Robot Operating Systems, LIDAR technology, mapping algorithms, networking protocols, encryption methods, and odometry  
 
 ## **Engineering Principles and Practice I | NUS College of Design And Engineering and School of Computing**   
-*Sensor-assisted Autonomous Robotic Vehicle Project | Aug 2021 to May 2021*  
-* Collaborated in a team of four to construct an autonomous robotic vehicle (mBot) capable of navigating an amazing race and completing complex challenges  
+*Sensor-assisted Autonomous Robotic Vehicle Project | Aug 2021 to Nov 2021*  
+* Collaborated in a team of 4 to construct an autonomous robotic vehicle (mBot) capable of navigating an amazing race and completing complex challenges  
 * Designed and built a custom line-sensing circuit on a mini-breadboard for the mBot, allowing it to accurately identify black lines on the track and come to a halt when detected  
 * Developed a profound understanding of the principles behind Infrared proximity sensors, Makeblock ultrasonic range sensors, and Makeblock ultrasonic line sensors    
 * Integrated a range of electronic components, such as resistors, capacitors, inductors, computer chips, and various sensors, to create a comprehensive hardware system for the mBot  
+
+## **Design and Make | NUS College of Design And Engineering and School of Computing**   
+*Engineering Design Project | Aug 2021 to Nov 2021*  
+* Collaborated in a team of 5 to develop a self-powered robot using Arduino-controlled electronics, CAD modeling, and Fusion360 to navigate an obstacle course  
+* Designed and built a compact robot that fit within a 30x30x30 cm cubic starting area using limited materials such as Geared Motor, Motor Coupler, and Servo Motor  
+* Gained a deep understanding of fundamental design and engineering principles and tools 
