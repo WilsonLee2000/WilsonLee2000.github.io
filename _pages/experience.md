@@ -25,6 +25,10 @@ author_profile: true
 * Independent Software Development Project
 * May 2022 to August 2022
 
+**Engineering Principles And Practice II**   
+* Complex Computer Engineering System Project  
+* January 2022 to May 2022   
+
 **Engineering Principles And Practice I**   
 * Sensor-assisted Autonomous Robotic Vehicle Project    
 * August 2021 to November 2022   
