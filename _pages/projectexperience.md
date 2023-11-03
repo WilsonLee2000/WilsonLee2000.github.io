@@ -22,3 +22,10 @@ author_profile: true
 * Collaborated in a team of 5 to design and develop a tele-operated robot with maze navigation capabilities  
 * Operated the robot through remote control from a laptop, providing real-time environment mapping capabilities for the operator, and ensuring seamless communication between the master control program and the Arduino board.  
 * Acquired proficiency in bare-metal programming and a wide range of topics such as Microcontroller Fundamentals, Robot Operating Systems, LIDAR technology, mapping algorithms, networking protocols, encryption methods, and odometry  
+
+## **Engineering Principles and Practice I | NUS College of Design And Engineering and School of Computing**   
+*Sensor-assisted Autonomous Robotic Vehicle Project | Aug 2021 to May 2021*  
+* Collaborated in a team of four to construct an autonomous robotic vehicle (mBot) capable of navigating an amazing race and completing complex challenges  
+* Designed and built a custom line-sensing circuit on a mini-breadboard for the mBot, allowing it to accurately identify black lines on the track and come to a halt when detected  
+* Developed a profound understanding of the principles behind Infrared proximity sensors, Makeblock ultrasonic range sensors, and Makeblock ultrasonic line sensors    
+* Integrated a range of electronic components, such as resistors, capacitors, inductors, computer chips, and various sensors, to create a comprehensive hardware system for the mBot  
