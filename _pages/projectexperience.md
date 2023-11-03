@@ -16,3 +16,9 @@ author_profile: true
 * Collaborated in a team of 2, ensuring project success through effective communication and coordination  
 * Implemented Software Engineering Principles and Practices in the mobile navigation application  
 * Level of Achievement: [Apollo 11](https://credentials.nus.edu.sg/1ac06b9f-4eb7-4ab2-8e88-52302402bbf5) (Advanced)  
+
+## **Engineering Principles and Practice II | NUS College of Design And Engineering and School of Computing**   
+*Complex Computer Engineering System Project | Jan 2022 to May 2022*  
+* Collaborated in a team of 5 to design and develop a tele-operated robot with maze navigation capabilities  
+* Operated the robot through remote control from a laptop, providing real-time environment mapping capabilities for the operator, and ensuring seamless communication between the master control program and the Arduino board.  
+* Acquired proficiency in bare-metal programming and a wide range of topics such as Microcontroller Fundamentals, Robot Operating Systems, LIDAR technology, mapping algorithms, networking protocols, encryption methods, and odometry  
