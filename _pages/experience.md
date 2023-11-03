@@ -35,11 +35,11 @@ author_profile: true
 
 **Engineering Principles And Practice I Project**   
 * Sensor-assisted Autonomous Robotic Vehicle Project    
-* August 2021 to November 2022   
+* August 2021 to November 2021     
 
 **Design and Make Project**  
 * Engineering Design Project  
-* August 2021 to November 2022  
+* August 2021 to November 2021   
 
 ## Volunteer Experience
 **Blangah Rise Primary School**
