@@ -10,8 +10,12 @@ author_profile: true
 **National University of Singapore | August 2021 to Present**  
 - Bachelor of Engineering (Honours) in Computer Engineering with Minor in Interactive Media Development  
 - Tembusu College - University Town College Programme  
-- Project: NUS School of Computing Orbital (CP2106: Independent Software Development Project)  
-  Level of Achievement: Apollo 11
+- Projects: 
+  * NUS Digital Design Project  
+  * NUS School of Computing Orbital (CP2106: Independent Software Development Project), Level of Achievement: Apollo 11  
+  * NUS Engineering Principles And Practice II Project  
+  * NUS Engineering Principles And Practice I Project  
+  * NUS Design and Make Project  
 - Hackathons and Competitions:
   * IDEATE Ideathon 2022 [Organised by NUS IDP Students' Club]     
   * Shopee Code League 2022 [Organised by Shoppee Singapore] ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile)) 
