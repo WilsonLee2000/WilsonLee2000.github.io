@@ -21,18 +21,6 @@ Being an entrepreneur is more than just taking risks and dreaming. It means turn
 
 This section offers a glimpse into my world as an aspiring entrepreneur, where I share the milestones, insights, and experiences that shape my pursuit of entrepreneurial ventures. I invite you to join me on this exciting journey!  
 
-## My Entrepreneurship Mentor - Mr Gustavo Liu 
-* Founder & CEO of RescaleLab, a Learning Experience platform  
-* TEDx 2021 Speaker for Venture Creation for Generation of Entrepreneurs
-* Lead Instructor in Entrepreneurship and Venture Creation at 5 Singapore Institutions including  
-  the National University of Singapore (NUS) and Nanyang Technological University (NTU)  
-* 11 Years in Asset Management and Private Banking with UOB Bank, HSBC Bank, and Citibank
-* Designed, Managed, and Mentored Over 300 Startups over the past 5 years
-* 4 Years in Deep Tech and Research Commercialisation  
-  
-<img src="/images/Gus2.jpg" height="350px" width="350px" class="center">  
-<br>
-
 ## Entrepreneurship Experience  
 ### Royal Visit by His Royal Highness Abdul Mateen Bolkiah of Brunei Darussalam to BLOCK71 Singapore: Strengthening International Ties and Innovation Partnerships  
 On September 13, 2023, His Royal Highness Abdul Mateen Bolkiah of Brunei Darussalam and Dr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry, along with a delegation from Brunei Darussalam, made a prestigious visit to BLOCK71 Singapore. I am immensely grateful for the opportunities that BLOCK71 Singapore has provided me with, and I take great pride in being a part of the BLOCK71 Singapore startup ecosystem through my internship with RescaleLab. Being an integral member of this dynamic and innovative BLOCK71 community has not only enriched my internship experience but has also empowered me to actively contribute to the vibrant landscape of entrepreneurship and innovation!    
