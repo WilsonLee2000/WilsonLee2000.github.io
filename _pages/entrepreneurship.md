@@ -22,6 +22,19 @@ Being an entrepreneur is more than just taking risks and dreaming. It means turn
 This section offers a glimpse into my world as an aspiring entrepreneur, where I share the milestones, insights, and experiences that shape my pursuit of entrepreneurial ventures. I invite you to join me on this exciting journey!  
 
 ## Entrepreneurship Experience  
+### NUS Overseas Colleges: Munich, Germany
+From February 2024 to July 2024, I participated in the NUS Overseas College (NOC) Entrepreneurship Development Programme.
+
+My time with nextnano GmbH in Munich was a pivotal chapter in my entrepreneurial journey. As a Software and Business Intern, I played a key role in integrating the CRM system with leads and customers, automating email communications and follow-ups. I also leveraged CRM data to develop revenue forecasting scripts using Python and Jupyter Notebook, which were crucial for the company's strategic planning. This experience significantly enhanced my skills in business operations and strategic analysis.
+
+Complementing this was the entrepreneurial prototyping course at the Technical University of Munich, which focused on applying prototyping methods to develop and validate new products and business models. The course equipped me with essential techniques for identifying customer problems, generating ideas, and iteratively testing solutions. The combination of hands-on experience and academic learning fostered a strong entrepreneurial mindset that I will carry forward.
+
+Additionally, immersing myself in European culture and working in an international setting broadened my worldview and enriched my professional journey. My NOC experience has been truly unparalleled and formative!  
+
+<img src="/images/NOC.jpeg" height="840px" width="840px" class="center">
+
+<img src="/images/NCMU11.jpeg" height="840px" width="840px" class="center">
+
 ### Royal Visit by His Royal Highness Abdul Mateen Bolkiah of Brunei Darussalam to BLOCK71 Singapore: Strengthening International Ties and Innovation Partnerships  
 On September 13, 2023, His Royal Highness Abdul Mateen Bolkiah of Brunei Darussalam and Dr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry, along with a delegation from Brunei Darussalam, made a prestigious visit to BLOCK71 Singapore. I am immensely grateful for the opportunities that BLOCK71 Singapore has provided me with, and I take great pride in being a part of the BLOCK71 Singapore startup ecosystem through my internship with RescaleLab. Being an integral member of this dynamic and innovative BLOCK71 community has not only enriched my internship experience but has also empowered me to actively contribute to the vibrant landscape of entrepreneurship and innovation!    
 
