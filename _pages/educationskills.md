@@ -15,8 +15,11 @@ author_profile: true
   * NUS School of Computing Orbital (CP2106: Independent Software Development Project), Level of Achievement: Apollo 11  
   * NUS Engineering Principles And Practice II Project   
   * NUS Engineering Principles And Practice I Project  
-  * NUS Design and Make Project  
+  * NUS Design and Make Project
+  * NUS Real-Time Operating Systems Project  
 - Hackathons and Competitions:
+  * TUM.ai Makeathon 2024 [Organised by the Technical University of Munich, Germany] ([Certificate](https://drive.google.com/file/d/1Nk8xg5WetV-CGTpuSuEPCiV3VdXd7Dwu/view?usp=drive_link))  
+  * Project: Hack Virtual 2 [Organised by Projecting Success, United Kingdom]
   * IDEATE Ideathon 2022 [Organised by NUS IDP Students' Club]     
   * Shopee Code League 2022 [Organised by Shoppee Singapore] ([Credential](https://www.credly.com/badges/3e4fceeb-718e-4205-b865-8e829b06c127?source=linked_in_profile)) 
   * HUAWEI CLOUD SPARK Hackathon Singapore 2021 [Organised by Huawei]  
