@@ -4,30 +4,29 @@ permalink: /workexperience/
 author_profile: true
 ---
 
-## **RescaleLab | Start-up incubated at Block71 Singapore by NUS Enterprise**   
-*Platform Success Manager | April 2023 to Present*  
-* RescaleLab (a subsidiary of E.A.T. Launchpad) is a cloud-based B2B software solution that facilitates the seamless capture and analysis of ongoing interactions between trainers and learners. By employing a data-driven approach, RescaleLab effectively maps out the level of commitment from all stakeholders involved, with the ultimate goal of fostering a milestone and high-touch feedback environment for achieving successful learning outcomes in educational institutions and Corporate Learning and Development environments  
-* Assist RescaleLab's platform users during onboarding and handled queries via email, phone calls and Zoom meetings    
-* Attract potential clients, investors, and partners to RescaleLab through business networking and platform demonstrations  
-* Recruit and train new interns at RescaleLab  
-* Part of RescaleLab's tech team in developing new features, identifying and fixing bugs for the platform  
-* Represented RescaleLab at business tech conferences (InnovFest 2023 and APAC Summit 2023)  
+## **Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore**   
+*Information Technology Intern | October 2024 to Present*  
+* Developed Python scripts to automate data processing and workflow optimization for company operations, utilizing computer network protocol (SFTP) for secure data transfer and improved task efficiency  
+* Conducted testing on company’s digital platforms (websites, apps, and kiosks), identifying technical bugs and providing actionable suggestions to improve customer experience and overall functionality  
+
+## **nextnano GmbH | Munich, Germany**   
+*Software and Business Developer | February 2024 to July 2024*  
+* Developed complex revenue scripts using Python in Jupyter Notebook, creating financial forecast graphs that supported sales and financial strategic planning and decision-making for the company  
+* Enhanced data reporting and analysis by implementing and integrating Google Analytics and Looker Studio to company’s operations, providing detailed insights into website traffic and viewership behaviour  
+* Revamped nextnano’s landing website by redesigning the interface, integrating lead generation strategies, and rectifying bugs through PHP, resulting in enhanced user engagement, seamless functionality, and better public comprehension of the company’s offerings   
+* Utilised Zoho CRM to manage sales leads and streamline sales communication, reaching out to numerous prospects, improving lead conversion rates  
+* Enhanced nextnano's LinkedIn engagement, follower growth, and sales productivity by redesigning content strategies, refining customer feedback collection processes, and implementing Calendly to streamline lead scheduling, resulting in increased page traffic, valuable product development insights, and more efficient lead management  
+
+## **RescaleLab (a subsidiary of E.A.T. Launchpad) | BLOCK71 Singapore by NUS Enterprise**   
+*Software Engineering Intern | April 2023 to December 2023*  
+* Assisted users of RescaleLab's Educational Technology platform during onboarding and handled queries via email, phone calls, and Zoom meetings  
+* Developed new features for the RescaleLab platform using Angular 11, while identifying and fixing bugs to enhance platform stability and functionality  
+* Promoted RescaleLab's platform via demonstrations to over 40 potential clients, investors, and partners, resulting in increased platform adoption  
+* Supported the facilitation of a 20-week A*StartCentral Essentials for Entrepreneurship deep tech venture building programme by assisting 5 A*STAR project start-up teams with core entrepreneurship concepts. This involvement contributed to the teams' enhanced readiness for investor funding and improved preparedness for market entry  
+* Represented RescaleLab at business technology conferences (InnovFest 2023 and APAC Summit 2023)  
 * Revitalized RescaleLab's marketing platforms to attract potential clients, investors, and partners (Facebook, Instagram, LinkedIn and Telegram)  
-* Internship Supervisor: [Gustavo Liu](https://www.linkedin.com/in/gustavoliu/)  
 
 <img src="/images/1690726204517.jpeg" height="750px" width="800px"> 
 
 <img src="/images/Rescale.jpg" height="800px" width="800px">
 <br>
-
-## **Republic Polytechnic | Office of Student Support**  
-*Office of Student Support Admin | Apr 2021 to July 2021*
-* Advised and processed at least 30 cases of bulk financial assistance schemes, bursary application, scholarship forms and supporting documents
-* Handled queries by students via Outlook, phone calls and Microsoft Teams to ensure that procedures are adhered to, documents submitted to the Ministry of Education are without error, and kept a watchful eye on any bursary fraud
-* Performed Data Entry using Excel, and other ad-hoc administrative duties  
-
-## **People's Association | Keat Hong Community Club**  
-*Constituency Support Officer | Nov 2016 to Jan 2017*
-* Communicated with members of the public, actively promoted and marketed community club activities and courses to customers
-* Provided administrative support to the constituency office and grassroots organisations
-* Initiated and implemented activities, programmes, and services to meet the needs of the community
