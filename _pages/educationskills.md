@@ -11,13 +11,6 @@ author_profile: true
 - Bachelor of Engineering (Honours) in Computer Engineering
 - NUS Overseas College Entrepreneurship Development Programme - Technical University of Munich, Germany
 - Tembusu College - University Town College Programme  
-- Projects: 
-  * NUS Digital Design Project  
-  * NUS School of Computing Orbital (CP2106: Independent Software Development Project), Level of Achievement: Apollo 11  
-  * NUS Engineering Principles And Practice II Project   
-  * NUS Engineering Principles And Practice I Project  
-  * NUS Design and Make Project
-  * NUS Real-Time Operating Systems Project  
 - Hackathons and Competitions:
   * TUM.ai Makeathon 2024 [Organised by the Technical University of Munich, Germany] (<a href="https://drive.google.com/file/d/1Nk8xg5WetV-CGTpuSuEPCiV3VdXd7Dwu/view?usp=drive_link" target="_blank">Certificate</a>)
   * Project: Hack Virtual 2 [Organised by Projecting Success, United Kingdom]  
