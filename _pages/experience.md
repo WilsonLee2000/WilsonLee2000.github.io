@@ -20,7 +20,7 @@ author_profile: true
 * Software Engineering Intern  
 * May 2023 to December 2023  
 
-## Project Experience (<a href="https://wilsonlee2000.github.io/projectexperience/" target="_blank">View</a>)
+## Project Experience (<a href="https://wilsonlee2000.github.io/projectexperience/" target="_blank">View</a>)  
 **NUS School of Computing Project Orbital**
 * Independent Software Development Project
 * May 2022 to August 2022  
