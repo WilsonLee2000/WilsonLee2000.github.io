@@ -17,9 +17,9 @@ author_profile: true
 * Utilised Zoho CRM to manage sales leads and streamline sales communication, reaching out to numerous prospects, improving lead conversion rates  
 * Enhanced nextnano's LinkedIn engagement, follower growth, and sales productivity by redesigning content strategies, refining customer feedback collection processes, and implementing Calendly to streamline lead scheduling, resulting in increased page traffic, valuable product development insights, and more efficient lead management
 
-<img src="/images/nextnano_dinner.jpg" height="800px" width="800px"> 
+<img src="/images/nextnano_dinner.jpeg" height="800px" width="800px"> 
 
-<img src="/images/nextnano_gokart.jpg" height="800px" width="800px"> 
+<img src="/images/nextnano_gokart.jpeg" height="800px" width="800px"> 
 
 ## **RescaleLab (a subsidiary of E.A.T. Launchpad) | BLOCK71 Singapore by NUS Enterprise**   
 *Software Engineering Intern | April 2023 to December 2023 | <a href="https://drive.google.com/file/d/15-iEpLoNJNsLV9AxDp9jsTx2yKd7wUGf/view?usp=drive_link" target="_blank">Testimonial</a>*  
