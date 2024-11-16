@@ -11,5 +11,5 @@ redirect_from:
 
 # (as of November 2024)
 
-<img src="/images/Wilson Lee Jun Wei Resume_Nov_2024_pg1.jpg" height="1000px" width="800px">
-<img src="/images/Wilson Lee Jun Wei Resume_Nov_2024_pg2.jpg" height="1000px" width="800px">
+<img src="/images/Wilson_Lee_Jun_Wei Resume_page-1.jpg" height="1000px" width="800px">
+<img src="/images/Wilson_Lee_Jun_Wei Resume_page-2.jpg" height="1000px" width="800px">
