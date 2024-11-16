@@ -12,7 +12,7 @@ author_profile: true
 * Information Technology Intern
 * October 2024 to Present     
 
-**nextnano GmbH | Singapore**  
+**nextnano GmbH | Munich, Germany**  
 * Software and Business Developer Intern
 * February 2024 to July 2024   
 
