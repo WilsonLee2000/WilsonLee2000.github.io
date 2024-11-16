@@ -8,15 +8,15 @@ author_profile: true
 {% include base_path %}
 
 ## Work Experience (<a href="https://wilsonlee2000.github.io/workexperience/" target="_blank">View</a>)  
-**Kentucky Fried Chicken and Pizza Hut Pte Ltd** | Singapore  
+**Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore** 
 * Information Technology Intern
 * October 2024 to Present     
 
-**nextnano GmbH** | Singapore  
+**nextnano GmbH | Singapore**  
 * Software and Business Developer Intern
 * February 2024 to July 2024   
 
-**RescaleLab** (a subsidiary of E.A.T. Launchpad) | Singapore  
+**RescaleLab (a subsidiary of E.A.T. Launchpad) | Singapore**
 * Software Engineering Intern  
 * May 2023 to December 2023  
 
