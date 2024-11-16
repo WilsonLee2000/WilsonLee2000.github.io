@@ -40,8 +40,10 @@ author_profile: true
 
 ## Skills  
 **Programming Languages:** C, C++, Java, JavaScript, TypeScript, Python      
-**Front-End:** Angular 11, React Native    
-**Back-End:** Node.js    
-**Software Proficiency:** RStudio, MATLAB, Stella Architect, AutoCAD, Canva, Microsoft Excel, Word and Powerpoint    
+**Front-End:** Angular 11
+**Back-End:** Node.js, PHP
+**Development and Data Analysis:** Jupyter Notebook  
 **Web Development:** HTML, CSS  
-**Business Acumen:** Sales, Strategic Representation, Lead Generation, Networking, Customer Relationship Management, Marketing, Team Management  
+**Business Acumen:** Sales, Strategic Representation, Lead Generation, Networking, Customer Relationship Management, Marketing, Team Management    
+**Design:** Canva, Figma  
+**Software Proficiency:** RStudio, MATLAB, Stella Architect, AutoCAD, Canva, Microsoft Excel, Word and Powerpoint    
