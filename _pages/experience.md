@@ -7,21 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-## Work Experience ([View](https://wilsonlee2000.github.io/workexperience/))  
-**RescaleLab** (a subsidiary of E.A.T. Launchpad)
-* Platform Success Manager  
-* April 2023 to Present   
+## Work Experience (<a href="https://wilsonlee2000.github.io/workexperience/" target="_blank">View</a>)  
+**Kentucky Fried Chicken and Pizza Hut** 
+* Information Technology Intern
+* October 2024 to Present     
 
-**Republic Polytechnic**  
-* Office of Student Support Admin  
-* April 2021 to July 2021  
+**nextnano GmbH** 
+* Software and Business Developer Intern
+* February 2024 to July 2024   
 
-**People's Association**  
-* Constituency Support Officer  
-* November 2016 to January 2017  
+**RescaleLab** (a subsidiary of E.A.T. Launchpad)  
+* Software Engineering Intern  
+* May 2023 to December 2023  
 
 ## Project Experience ([View](https://wilsonlee2000.github.io/projectexperience/))  
-
 **NUS School of Computing Project Orbital**
 * Independent Software Development Project
 * May 2022 to August 2022  
