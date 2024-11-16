@@ -33,7 +33,7 @@ Additionally, immersing myself in European culture and working in an internation
 
 <img src="/images/NOC.jpeg" height="840px" width="840px" class="center">
 
-<img src="/images/NCMU11.jpeg" height="840px" width="840px" class="center">
+<img src="/images/NCMU11.jpeg" height="600px" width="600px" class="center">
 
 ### Royal Visit by His Royal Highness Abdul Mateen Bolkiah of Brunei Darussalam to BLOCK71 Singapore: Strengthening International Ties and Innovation Partnerships  
 On September 13, 2023, His Royal Highness Abdul Mateen Bolkiah of Brunei Darussalam and Dr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry, along with a delegation from Brunei Darussalam, made a prestigious visit to BLOCK71 Singapore. I am immensely grateful for the opportunities that BLOCK71 Singapore has provided me with, and I take great pride in being a part of the BLOCK71 Singapore startup ecosystem through my internship with RescaleLab. Being an integral member of this dynamic and innovative BLOCK71 community has not only enriched my internship experience but has also empowered me to actively contribute to the vibrant landscape of entrepreneurship and innovation!    
