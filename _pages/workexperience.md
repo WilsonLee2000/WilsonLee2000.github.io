@@ -6,12 +6,13 @@ author_profile: true
 
 ## **Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore**   
 *Information Technology Intern | October 2024 to Present*  
-* Developed Python scripts to automate data processing and workflow optimization for company operations, utilizing computer network protocol (SFTP) for secure data transfer and improved task efficiency  
+* Developed Python scripts to automate data processing and workflow optimization for company operations, utilizing computer network protocol (SFTP) for secure data transfer and improved task efficiency
+* Created and optimized paginated reports using Power BI Report Builder to meet operational data reporting and business requirements, enhancing report clarity, accuracy, and decision-making  
 * Conducted testing on company’s digital platforms (websites, apps, and kiosks), identifying technical bugs and providing actionable suggestions to improve customer experience and overall functionality  
 
 ## **nextnano GmbH | Munich, Germany**   
 *Software and Business Developer | February 2024 to July 2024 | <a href="https://drive.google.com/file/d/1vSTp9rJVk_oL-Xgmi4C25IJM0-1N8FFH/view?usp=sharing" target="_blank">Testimonial</a>*  
-* Developed complex revenue scripts using Python in Jupyter Notebook, creating financial forecast graphs that supported sales and financial strategic planning and decision-making for the company  
+* Developed complex revenue scripts using Python in Jupyter Notebook, creating financial forecast graphs that supported sales and financial strategic planning for the company  
 * Enhanced data reporting and analysis by implementing and integrating Google Analytics and Looker Studio to company’s operations, providing detailed insights into website traffic and viewership behaviour  
 * Revamped nextnano’s landing website by redesigning the interface, integrating lead generation strategies, and rectifying bugs through PHP, resulting in enhanced user engagement, seamless functionality, and better public comprehension of the company’s offerings   
 * Utilised Zoho CRM to manage sales leads and streamline sales communication, reaching out to numerous prospects, improving lead conversion rates  
