@@ -11,5 +11,5 @@ redirect_from:
 
 # (as of December 2024)
 
-<img src="/images/Nov24_Resume_pg1.jpg" height="1000px" width="800px">
-<img src="/images/Nov24_Resume_pg2.jpg" height="1000px" width="800px">
+<img src="/images/Wilson_Dec24_Resume1.jpg" height="1000px" width="800px">
+<img src="/images/Wilson_Dec24_Resume2.jpg" height="1000px" width="800px">
