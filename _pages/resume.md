@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# (as of November 2024)
+# (as of December 2024)
 
 <img src="/images/Nov24_Resume_pg1.jpg" height="1000px" width="800px">
 <img src="/images/Nov24_Resume_pg2.jpg" height="1000px" width="800px">
