@@ -16,7 +16,7 @@ author_profile: true
 * Enhanced data reporting and analysis by implementing and integrating Google Analytics and Looker Studio to company’s operations, providing detailed insights into website traffic and viewership behaviour  
 * Revamped nextnano’s landing website by redesigning the interface, integrating lead generation strategies, and rectifying bugs through PHP, resulting in enhanced user engagement, seamless functionality, and better public comprehension of the company’s offerings   
 * Utilised Zoho CRM to manage sales leads and streamline sales communication, reaching out to numerous prospects, improving lead conversion rates  
-* Enhanced nextnano's LinkedIn engagement, follower growth, and sales productivity by redesigning content strategies, refining customer feedback collection processes, and implementing Calendly to streamline lead scheduling, resulting in increased page traffic, valuable product development insights, and more efficient lead management
+* Enhanced nextnano's LinkedIn engagement, follower growth, and sales productivity by redesigning content strategies, refining customer feedback collection processes, and implementing Calendly to streamline lead scheduling. This resulted in increased page traffic, valuable product development insights, and more efficient lead management  
 
 <img src="/images/nextnano_dinner.jpeg" height="500px" width="500px"> 
 
