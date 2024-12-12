@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* NUS Overseas College Entrepreneurship Development Programme (<a href="https://drive.google.com/file/d/1GfJSXpqQ-mlkGLioVAXehEpqzdBMBuTf/view?usp=drive_link" target="_blank">View</a>)
 * National Youth Achievement Award Gold <a href="https://drive.google.com/file/d/1GqWTQtq-oiIZhf9nLLVF0YFd3SBVt-II/view?usp=drive_link" target="_blank">Award</a> 2018 (<a href="https://www.facebook.com/andersonjuniorcollege/posts/our-heartiest-congratulations-to-the-national-youth-achievement-award-nyaa-gold-/2226852197366994/" target="_blank">Junior College Announcement</a>)
 * Edusave Certificate of Academic Achievement 2018 (<a href="https://drive.google.com/file/d/1jKD0cgAIDqdGR0ItmnnNbmr_yb9PCGBz/view?usp=drive_link" target="_blank">View</a>) 
 * Anderson Junior College Contribution Award 2018 (<a href="https://drive.google.com/file/d/1XDWnm1QetsFZ16a08hPEFG_KajCF4eQC/view?usp=drive_link" target="_blank">View</a>)
