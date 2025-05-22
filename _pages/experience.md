@@ -10,7 +10,7 @@ author_profile: true
 ## Work Experience (<a href="https://wilsonlee2000.github.io/workexperience/" target="_blank">View</a>)  
 **Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore** 
 * Information Technology Intern
-* October 2024 to Present     
+* October 2024 to May 2025     
 
 **nextnano GmbH | Munich, Germany**  
 * Software and Business Developer Intern
