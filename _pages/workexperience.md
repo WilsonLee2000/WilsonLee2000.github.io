@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## **Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore**   
-*Information Technology Intern | October 2024 to Present*  
+*Information Technology Intern | October 2024 to May 2025 | <a href="https://drive.google.com/file/d/1hGeclgRQ62BEeULUyCtYcsh2YlB91dQ5/view?usp=sharing">Testimonial</a>*  
 * Developed Python scripts to automate data processing and workflow optimization for company operations, utilizing computer network protocol (SFTP) for secure data transfer and improved task efficiency
 * Created and optimized paginated reports using Power BI Report Builder to meet operational data reporting and business requirements, enhancing report clarity, accuracy, and decision-making  
 * Conducted testing on company’s digital platforms (websites, apps, and kiosks), identifying technical bugs and providing actionable suggestions to improve customer experience and overall functionality  
