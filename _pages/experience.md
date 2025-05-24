@@ -21,6 +21,10 @@ author_profile: true
 * May 2023 to December 2023  
 
 ## Project Experience (<a href="https://wilsonlee2000.github.io/projectexperience/" target="_blank">View</a>)  
+**NUS Computer Engineering Capstone Project**
+* Computer Engineering System Integration and Development Capstone Project
+* Jan 2025 to May 2025  
+
 **NUS School of Computing Project Orbital**
 * Independent Software Development Project
 * May 2022 to August 2022  
