@@ -22,7 +22,7 @@ author_profile: true
 
 ## Project Experience (<a href="https://wilsonlee2000.github.io/projectexperience/" target="_blank">View</a>)  
 **NUS Computer Engineering Capstone Project**
-* Computer Engineering System Integration and Development Capstone Project
+* System Integration and Development Capstone Project
 * Jan 2025 to May 2025  
 
 **NUS School of Computing Project Orbital**
