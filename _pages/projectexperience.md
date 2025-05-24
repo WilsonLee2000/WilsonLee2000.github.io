@@ -4,6 +4,12 @@ permalink: /projectexperience/
 author_profile: true
 ---
 
+## **Computer Engineering Capstone Project | NUS School of Computing**   
+*System Integration and Development Capstone Project | Jan 2025 to May 2025*  
+* Developed an immersive augmented reality-based game visualiser in Unity using C# and Vuforia, collaborating with 4 team members responsible for hardware and systems integration to display real-time player statistics and game effects    
+* Engineered interactive user interface components such as health bars, crosshairs, and ammunition counters for the visualiser, enabling dynamic responses to augmented reality markers and enhancing gameplay engagement    
+* Resolved hardware-visualiser integration issues by prototyping multiple mounting configurations, ultimately improving stability and usability of the game visualiser  
+
 ## **Project Orbital | NUS School of Computing**   
 *Independent Software Development Project | May 2022 to August 2022*  
 * Collaborated in a team of 2 to build a (<a href="https://drive.google.com/file/d/1LctkmaBrIxnTpcVH-p-aYIDS_9tRh_dl/view?usp=drive_link" target="_blank">Mobile Navigation Application</a>) using JavaScript and React Native that provides users with updated information on venues in the School of Computing  
