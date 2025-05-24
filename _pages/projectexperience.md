@@ -6,7 +6,7 @@ author_profile: true
 
 ## **Computer Engineering Capstone Project | NUS School of Computing**   
 *System Integration and Development Capstone Project | Jan 2025 to May 2025*  
-* Developed an immersive augmented reality-based game visualiser in Unity using C# and Vuforia, collaborating with 4 team members responsible for hardware and systems integration to display real-time player statistics and game effects    
+* Developed an immersive augmented reality-based game visualiser in Unity using C# and Vuforia, collaborating with 4 team members on hardware and systems integration to display real-time player statistics and game effects      
 * Engineered interactive user interface components such as health bars, crosshairs, and ammunition counters for the visualiser, enabling dynamic responses to augmented reality markers and enhancing gameplay engagement    
 * Resolved hardware-visualiser integration issues by prototyping multiple mounting configurations, ultimately improving stability and usability of the game visualiser  
 
