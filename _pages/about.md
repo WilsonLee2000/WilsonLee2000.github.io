@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a highly motivated and ambitious final-year undergraduate majoring in Computer Engineering at the National University of Singapore (NUS). During my first two years at NUS, I participated in the University Town College Programme (UTCP) as a student of Tembusu College.
+I am a highly motivated and ambitious recent graduate in Computer Engineering from the National University of Singapore (NUS). During my first two years at NUS, I participated in the University Town College Programme (UTCP) as a student of Tembusu College.
 
 In my third year, I had the privilege of interning at a start-up within NUS Enterprise’s BLOCK71 incubator, where I developed key skills in entrepreneurship and innovation. Additionally, I am honoured to be part of the NUS Overseas College Entrepreneurship Development Programme in Munich, Germany, from February to July 2024.
 
