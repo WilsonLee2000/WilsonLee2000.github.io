@@ -32,11 +32,12 @@ author_profile: true
 - Orientation Group Leader for Anderson Junior College Orientation 2018   
 
 ## Skills  
-**Programming Languages:** C, C++, Java, JavaScript, TypeScript, Python      
-**Front-End:** Angular 11
-**Back-End:** Node.js, PHP
-**Development and Data Analysis:** Jupyter Notebook  
-**Web Development:** HTML, CSS  
-**Business Acumen:** Sales, Strategic Representation, Lead Generation, Networking, Customer Relationship Management, Marketing, Team Management    
+**Programming Skills:** C, C++, C#, Java, JavaScript, TypeScript, Python      
+**Front-End:** Angular 11  
+**Back-End:** Node.js, PHP  
+**Development and Tools:** Jupyter Notebook, Unity, RStudio, MATLAB  
 **Design:** Canva, Figma  
-**Software Proficiency:** RStudio, MATLAB, Stella Architect, AutoCAD, Canva, Microsoft Excel, Word and Powerpoint    
+**Data Visualisation:** Power BI, Stella Architect 
+**Business and Productivity Tools:**  Zoho CRM, HubSpot CRM, Microsoft Office Suite      
+**Web Development:** HTML, CSS  
+
