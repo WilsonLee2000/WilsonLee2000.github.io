@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Education  
-**National University of Singapore | August 2021 to Present**  
+**National University of Singapore | August 2021 to May 2025**  
 - Bachelor of Engineering (Honours) in Computer Engineering
 - NUS Overseas College Entrepreneurship Development Programme - Technical University of Munich, Germany
 - Tembusu College - University Town College Programme  
