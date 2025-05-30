@@ -37,7 +37,7 @@ author_profile: true
 **Back-End:** Node.js, PHP  
 **Development and Tools:** Jupyter Notebook, Unity, RStudio, MATLAB  
 **Design:** Canva, Figma  
-**Data Visualisation:** Power BI, Stella Architect 
+**Data Visualisation:** Power BI, Stella Architect   
 **Business and Productivity Tools:**  Zoho CRM, HubSpot CRM, Microsoft Office Suite      
 **Web Development:** HTML, CSS  
 
