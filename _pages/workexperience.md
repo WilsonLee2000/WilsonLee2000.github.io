@@ -7,7 +7,9 @@ author_profile: true
 *Data Center Operation Engineer | June 2025 to November 2025*  
 * Managed a team of data center IT engineers and resolved over 100 operational work tickets, including server rack-on, device repairs and restarts, ensuring continuous device uptime and reliable service delivery to clients 
 * Monitored critical server and network metrics using Alibaba Cloud’s dashboards and internal alerting tools, proactively detecting power, temperature, and humidity anomalies to prevent device downtime and maintain stable operations across all facilities   
-* Collaborated with cross-functional teams in Singapore (Assets, Facilities, Security) and engineers in China to standardize data center SOPs, aligning IT and security operations, and improving ticket-handling efficiency 
+* Collaborated with cross-functional teams in Singapore (Assets, Facilities, Security) and engineers in China to standardize data center SOPs, aligning IT and security operations, and improving ticket-handling efficiency
+
+<img src="/images/Abb.jpeg" height="500px" width="500px"> 
 
 ## **Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore**   
 *Information Technology Intern | October 2024 to May 2025 | <a href="https://drive.google.com/file/d/1hGeclgRQ62BEeULUyCtYcsh2YlB91dQ5/view?usp=sharing">Testimonial</a>*  
