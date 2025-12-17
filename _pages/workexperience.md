@@ -4,7 +4,7 @@ permalink: /workexperience/
 author_profile: true
 ---
 ## **Alibaba Cloud | Singapore**   
-*Data Center Operation Engineer | June 2025 to November 2025 
+*Data Center Operation Engineer | June 2025 to November 2025*  
 * Managed a team of data center IT engineers and resolved over 100 operational work tickets, including server rack-on, device repairs and restarts, ensuring continuous device uptime and reliable service delivery to clients 
 * Monitored critical server and network metrics using Alibaba Cloud’s dashboards and internal alerting tools, proactively detecting power, temperature, and humidity anomalies to prevent device downtime and maintain stable operations across all facilities   
 * Collaborated with cross-functional teams in Singapore (Assets, Facilities, Security) and engineers in China to standardize data center SOPs, aligning IT and security operations, and improving ticket-handling efficiency 
