@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Work Experience (<a href="https://wilsonlee2000.github.io/workexperience/" target="_blank">View</a>)  
+**Alibaba Cloud | Singapore** 
+* Data Center Operation Engineer 
+* June 2025 to November 2025     
+
 **Kentucky Fried Chicken and Pizza Hut Pte Ltd | Singapore** 
 * Information Technology Intern
 * October 2024 to May 2025     
