@@ -33,8 +33,9 @@ author_profile: true
 
 ## Skills  
 **Programming Skills:** C, C++, C#, Java, JavaScript, TypeScript, Python      
-**Front-End:** Angular 11  
-**Back-End:** Node.js, PHP  
+**Front-End Technologies:** Angular 11  
+**Back-End Technologies:** Node.js, PHP  
+**Cloud & Identity Platforms:** Microsoft Azure, Microsoft 365, Microsoft Entra ID, Microsoft Intune, Active Directory  
 **Development and Tools:** Jupyter Notebook, Unity, RStudio, MATLAB  
 **Design:** Canva, Figma  
 **Data Visualisation:** Power BI, Stella Architect   
