@@ -11,7 +11,7 @@ author_profile: true
 * Configure and monitor Intune compliance policies, device configuration profiles, and endpoint security settings to enforce cloud security standards
 * Troubleshoot network connectivity, Domain Name System (DNS), and Microsoft Office issues to maintain service continuity  
 
-<img src="/images/Opsec_Cyber.jpg" height="500px" width="500px"> 
+<img src="/images/Opsec_Cyber.jpg" height="300px" width="300px"> 
 
 ## **Alibaba Cloud | Singapore**   
 *Data Center Operation Engineer | June 2025 to November 2025*  
