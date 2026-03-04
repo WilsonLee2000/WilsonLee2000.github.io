@@ -11,6 +11,8 @@ author_profile: true
 * Configure and monitor Intune compliance policies, device configuration profiles, and endpoint security settings to enforce cloud security standards
 * Troubleshoot network connectivity, Domain Name System (DNS), and Microsoft Office issues to maintain service continuity  
 
+<img src="/images/Opsec_Cyber.jpg" height="500px" width="500px"> 
+
 ## **Alibaba Cloud | Singapore**   
 *Data Center Operation Engineer | June 2025 to November 2025*  
 * Managed a team of data center IT engineers and resolved operational tickets involving server rack installations, device repairs, and system restarts to maintain device uptime and service reliability   
@@ -23,7 +25,9 @@ author_profile: true
 *Information Technology Intern | October 2024 to May 2025 | <a href="https://drive.google.com/file/d/1hGeclgRQ62BEeULUyCtYcsh2YlB91dQ5/view?usp=sharing">Testimonial</a>*  
 * Automated data processing workflows with Python and implemented secure file transfers using Secure File Transfer Protocol (SFTP) to streamline operations  
 * Developed and optimized paginated reports using Power BI Report Builder to support operational reporting and inform business decision-making  
-* Tested digital platforms (websites, apps, kiosks), identifying technical issues and recommending improvements to enhance customer experience    
+* Tested digital platforms (websites, apps, kiosks), identifying technical issues and recommending improvements to enhance customer experience
+
+<img src="/images/KFC_PizzaHut.jpg" height="500px" width="500px"> 
 
 ## **nextnano GmbH | Munich, Germany**   
 *Software and Business Developer | February 2024 to July 2024 | <a href="https://drive.google.com/file/d/1vSTp9rJVk_oL-Xgmi4C25IJM0-1N8FFH/view?usp=sharing" target="_blank">Testimonial</a>*  
