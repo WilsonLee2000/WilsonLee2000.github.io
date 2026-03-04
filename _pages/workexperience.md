@@ -3,6 +3,14 @@ title: "Work Experience"
 permalink: /workexperience/
 author_profile: true
 ---
+## **Opsec Cyber | Singapore**   
+*Technology & Security Consultant | November 2025 to Present*  
+* Resolve helpdesk tickets via Freshservice, troubleshooting Intune enrollment failures, compliance conflicts, and .NET-related authentication errors to restore user access and minimize operational disruption  
+* Administer Microsoft 365 (Exchange Online, SharePoint, OneDrive) and manage user identities in Entra ID and Active Directory to maintain secure access across client tenants  
+* Implement Conditional Access (CA) and Multi-Factor Authentication (MFA) policies in Entra ID to strengthen tenant security and reduce identity risks
+* Configure and monitor Intune compliance policies, device configuration profiles, and endpoint security settings to enforce cloud security standards
+* Troubleshoot network connectivity, Domain Name System (DNS), and Microsoft Office issues to maintain service continuity  
+
 ## **Alibaba Cloud | Singapore**   
 *Data Center Operation Engineer | June 2025 to November 2025*  
 * Managed a team of data center IT engineers and resolved over 100 operational work tickets, including server rack-on, device repairs and restarts, ensuring continuous device uptime and reliable service delivery to clients 
