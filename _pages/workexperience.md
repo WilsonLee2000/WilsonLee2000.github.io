@@ -31,7 +31,7 @@ author_profile: true
 * Implemented Google Analytics and Looker Studio to enhance reporting accuracy and analyze website traffic trends    
 * Redesigned the landing website by integrating lead generation features and resolving PHP issues to enhance user engagement and site functionality  
 * Managed sales leads and streamlined communication using Zoho CRM to improve lead tracking efficiency and conversion rates 
-* Enhanced nextnano's LinkedIn engagement, follower growth, and sales productivity by redesigning content strategies, refining customer feedback collection processes, and implementing Calendly to streamline lead scheduling. This resulted in increased page traffic, valuable product development insights, and more efficient lead management  
+* Increased LinkedIn engagement and streamlined lead scheduling by refining content strategy and implementing Calendly, driving higher page traffic and generating product development insights    
 
 <img src="/images/nextnano_dinner.jpeg" height="500px" width="500px"> 
 
@@ -39,12 +39,9 @@ author_profile: true
 
 ## **RescaleLab (a subsidiary of E.A.T. Launchpad) | BLOCK71 Singapore by NUS Enterprise**   
 *Software Engineering Intern | May 2023 to December 2023 | <a href="https://drive.google.com/file/d/15-iEpLoNJNsLV9AxDp9jsTx2yKd7wUGf/view?usp=drive_link" target="_blank">Testimonial</a>*  
-* Developed new features for the RescaleLab platform using Angular 11, while identifying and fixing bugs to enhance platform stability and functionality  
-* Promoted RescaleLab's platform via demonstrations to over 40 potential clients, investors, and partners, resulting in increased platform adoption  
-* Supported the facilitation of a 20-week A*StartCentral Essentials for Entrepreneurship deep tech venture building programme by assisting 5 A*STAR project start-up teams with core entrepreneurship concepts. This involvement contributed to the teams' enhanced readiness for investor funding and improved preparedness for market entry  
-* Represented RescaleLab at business technology conferences (InnovFest 2023 and APAC Summit 2023)  
-* Revitalized RescaleLab's marketing platforms to attract potential clients, investors, and partners (Facebook, Instagram, LinkedIn and Telegram)
-* Assisted users of RescaleLab's Educational Technology platform during onboarding and handled queries via email, phone calls, and Zoom meetings  
+* Developed new features for RescaleLab’s EdTech platform using Angular 11, while identifying and fixing bugs to enhance platform stability and functionality    
+* Delivered product demonstrations of the EdTech platform at InnovFest to over 40 clients, investors, and partners, increasing platform adoption    
+* Facilitated user onboarding by resolving technical queries across email, phone, and Zoom  
 
 <img src="/images/1690726204517.jpeg" height="750px" width="800px"> 
 
