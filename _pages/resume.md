@@ -11,5 +11,5 @@ redirect_from:
 
 # (as of August 2026)
 
-<img src="/images/Wilson_Page.jpg" height="1000px" width="800px">
-<img src="/images/Wilson_March_Two.jpg" height="1000px" width="800px">
+<img src="/images/Wilson_Res_One.jpg" height="1000px" width="800px">
+<img src="/images/Wilson_Res_Two.jpg" height="1000px" width="800px">
