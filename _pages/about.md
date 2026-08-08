@@ -14,7 +14,7 @@ In my third year, I had the privilege of interning at a start-up within NUS Ente
 
 My passion for Computer Engineering is complemented by a strong commitment to extracurricular activities. I have been actively involved in the NUS Muay Thai Club and the NUS Comedy Club, both of which have helped me develop a well-rounded university experience beyond academics.
 
-I am also dedicated to technological innovation, having participated in several hackathons and ideathons during my undergraduate years. At present, I am further honing my technical and collaborative skills as an Information Technology intern at Kentucky Fried Chicken (KFC) and Pizza Hut, contributing to various IT-related and customer relationship management projects.
+I am also dedicated to technological innovation, having participated in several hackathons and ideathons during my undergraduate years. Since graduating from NUS, I have gained professional experience in data centre operations at Alibaba Cloud and technology and security consulting at Opsec Cyber. Through these roles, I have strengthened my expertise in cloud infrastructure, cybersecurity, identity and access management, and IT operations while collaborating with cross-functional and international teams.
 
 I am eager to connect with like-minded individuals and explore new opportunities in technology, entrepreneurship, and innovation. In my free time, I enjoy planespotting and working out at the gym.
 
