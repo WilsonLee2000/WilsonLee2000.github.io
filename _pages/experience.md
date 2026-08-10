@@ -10,7 +10,7 @@ author_profile: true
 ## Work Experience (<a href="https://wilsonlee2000.github.io/workexperience/" target="_blank">View</a>)  
 **Opsec Cyber | Singapore** 
 * Technology and Security Consultant  
-* November 2025 to Present  
+* November 2025 to May 2026  
 
 **Alibaba Cloud | Singapore** 
 * Data Center Operation Engineer 
