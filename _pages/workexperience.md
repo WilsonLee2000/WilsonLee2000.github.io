@@ -5,11 +5,11 @@ author_profile: true
 ---
 ## **Opsec Cyber | Singapore**   
 *Technology & Security Consultant | November 2025 to May 2026*  
-* Resolve helpdesk tickets via Freshservice, troubleshooting Intune enrollment failures, compliance conflicts, and .NET-related authentication errors to restore user access and minimize operational disruption  
-* Administer Microsoft 365 (Exchange Online, SharePoint, OneDrive) and manage user identities in Entra ID and Active Directory to maintain secure access across client tenants  
-* Implement Conditional Access (CA) and Multi-Factor Authentication (MFA) policies in Entra ID to strengthen tenant security and reduce identity risks
-* Configure and monitor Intune compliance policies, device configuration profiles, and endpoint security settings to enforce cloud security standards
-* Troubleshoot network connectivity, Domain Name System (DNS), and Microsoft Office issues to maintain service continuity  
+* Resolved helpdesk tickets via Freshservice, troubleshooting Intune enrollment failures, compliance conflicts, and .NET-related authentication errors to restore user access and minimize operational disruption    
+* Administered Microsoft 365 (Exchange Online, SharePoint, OneDrive) and managed user identities in Entra ID and Active Directory to maintain secure access across client tenants   
+* Implemented Conditional Access (CA) and Multi-Factor Authentication (MFA) policies in Entra ID to strengthen tenant security and reduce identity risks  
+* Configured and monitored Intune compliance policies, device configuration profiles, and endpoint security settings to enforce cloud security standards  
+* Diagnosed and resolved end-user network connectivity, Domain Name System (DNS), and Microsoft Office issues across client environments, minimizing service disruptions    
 
 <img src="/images/Opsec_Cyber.jpg" height="300px" width="300px"> 
 
