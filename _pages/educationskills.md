@@ -33,12 +33,11 @@ author_profile: true
 
 ## Skills  
 **Programming Skills:** C, C++, C#, Java, JavaScript, TypeScript, Python      
-**Front-End Technologies:** Angular 11  
+**Front-End Technologies:** Angular 11, HTML, CSS    
 **Back-End Technologies:** Node.js, PHP  
+**Cybersecurity Competencies:** Burp Suite Professional, Vulnerability Management, Cloud Security Posture Management (CSPM), Bastion Hosts  
 **Cloud & Identity Platforms:** Microsoft Azure, Microsoft 365, Microsoft Entra ID, Microsoft Intune, Active Directory  
-**Development and Tools:** Jupyter Notebook, Unity, RStudio, MATLAB  
-**Design:** Canva, Figma  
-**Data Visualisation:** Power BI, Stella Architect   
-**Business and Productivity Tools:**  Zoho CRM, HubSpot CRM, Microsoft Office Suite      
-**Web Development:** HTML, CSS  
+**Technical & Development Tools:** Jupyter Notebook, Unity, RStudio, MATLAB  
+**Data Visualisation:** Microsoft Power BI  
+**Design & Business Productivity Tools:** Canva, Figma, Zoho CRM, HubSpot CRM, Microsoft Office Suite      
 
